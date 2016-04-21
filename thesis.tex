@@ -1,5 +1,9 @@
 \documentclass[twoside,openright,11pt]{book}
 
+\let\tmp\newinsert
+\let\newinsert\newbox
+\usepackage{floatrow}
+\let\newinsert\tmp
 
 \input{preamble.tex}
 
@@ -44,11 +48,11 @@
   \null
   \vspace{6cm}
   
-  {\Huge Thesis title}
+  {\Huge Using 3D direct manipulation for real-time structural design exploration}
 
   \vspace{2cm}
   
-  \Large{Author Name \\ Division of Structural Mechanics \\ Department of Construction Sciences \\ Lund University \\ Sweden}
+  \Large{Daniel Åkesson \\ Division of Structural Mechanics \\ Department of Construction Sciences \\ Lund University \\ Sweden}
   \vspace{1cm}
   
   \includegraphics[scale=0.3]{LundUniversity_C2line_BLACK.eps}
@@ -94,32 +98,17 @@
  
 \noindent 
 \textbf{Paper A} \\
-\textsl{Paper title.} \\
-Author one, Author two and Author three.\\
-Accepted for publication in Nature (in press, available online). \\ \\
-\textbf{Paper B} \\
-\textsl{Paper title.} \\
-Author one, Author two and Author three.\\
+\textsl{A tablet computer application for conceptual design} \\
+Daniel Åkesson, Jonas Lindemann\\
 Accepted for publication in Science (in press, available online). \\ \\
-\textbf{Paper C} \\
-\textsl{Paper title.} \\
-Author one, Author two and Author three.\\
-Accepted for publication in Nature (in press, available online). \\ \\
-
-\textbf{Paper D} \\
-\textsl{Paper title.} \\
-Author one, Author two and Author three.\\
-Submitted for publication. \\ \\
-\textbf{Paper E} \\
-\textsl{Paper title.} \\
-Author one, Author two and Author three.\\
-Submitted for publication. \\ \\
-~\vspace{-5pt} \\
-~\vspace{-5pt} \\
+\textbf{Paper B} \\
+\textsl{Using 3D direct manipulation for real-time structural design exploration} \\
+Daniel Åkesson, Caitlin Mueller\\
+Submitted \\ \\
 
 %\mainmatter
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Introduction and overview}
+\part{Introduction and overview of the work}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \mainmatter
 %\pagestyle{plain}
@@ -127,8 +116,8 @@ Submitted for publication. \\ \\
 % If you would like to use an initial (anfang på svenska) at the start of each chapter, there is an example of how to do this available in chapter1initial.
 \include{chapter1} 
 %\include{chapter1initial} 
-\include{chapter2}
-\include{chapter3}
+%\include{chapter2}
+%\include{chapter3}
 
 \renewcommand{\bibname}{References}
 \backmatter
@@ -136,7 +125,7 @@ Submitted for publication. \\ \\
 \phantomsection
 \addcontentsline{toc}{chapter}{References}
 \bibliographystyle{mystyle}
-\bibliography{thesisbibfile}
+\bibliography{thesis-library}
 
 \pagestyle{empty}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -159,7 +148,7 @@ Optional text here.
 \cleardoublepage
 % Include the PDF. Comment this while writing the thesis, only add later. 
 % Options are: all pages, scaled to full width (use 0.95 if that is too high for some reason)
-\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{empty}}]{PaperA.pdf}
+\includepdf[pages=-,width=1.29\textwidth,pagecommand={\thispagestyle{empty}}]{PaperA.pdf}
 % One additional option could be useful: To cut away the margins of the included PDFs use:
 % clip,viewport=<left> <bottom> <right> <top>
 % To determine the four numbers you can use the ./determineViewport.sh script in the thesis directory. 
@@ -176,48 +165,8 @@ Optional text here.
 \vfill
 
 \cleardoublepage % When using clip, it appears that you need an extra \cleardoublepage
-\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{empty}},viewport=72 71 541 681]{PaperA.pdf}
-
-\cleardoublepage
-\thispagestyle{empty}
-\vspace*{6cm} %increase by 2cm each time. % <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Important
-\begin{minipage}{8cm}
-Optional text here.
-\end{minipage}%
-\hfill{ 
-\fontsize{20}{30}\selectfont {\bf Paper~C}}\marginpar{\rule[-4mm]{50mm}{14mm}} % Change the Roman number here
-\vfill
-
-%\cleardoublepage
-%\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{plain}}]{PaperA.pdf}
-
-\cleardoublepage
-\thispagestyle{empty}
-\vspace*{8cm} %increase by 2cm each time. % <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Important
-\begin{minipage}{8cm}
-Optional text here.
-\end{minipage}%
-\hfill{ 
-\fontsize{20}{30}\selectfont {\bf Paper~D}}\marginpar{\rule[-4mm]{50mm}{14mm}} % Change the Roman number here
-\vfill
-
-%\cleardoublepage
-%\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{plain}}]{PaperA.pdf}
-
-\cleardoublepage
-\thispagestyle{empty}
-\vspace*{10cm} %increase by 2cm each time. % <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Important
-\begin{minipage}{8cm}
-Optional text here.
-\end{minipage}%
-\hfill{ 
-\fontsize{20}{30}\selectfont {\bf Paper~E}}\marginpar{\rule[-4mm]{50mm}{14mm}} % Change the Roman number here
-\vfill
-
-%\cleardoublepage
-%\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{plain}}]{PaperA.pdf}
+\includepdf[pages=-,width=1.2\textwidth,pagecommand={\thispagestyle{empty}},viewport=72 160 541 681]{PaperB.pdf}
 
 
-% Repeat for all papers ...
 
 \end{document}
