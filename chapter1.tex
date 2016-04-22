@@ -1,18 +1,18 @@
 \chapter{Introduction}
 \label{ch:Introduction}
 \section{The structural design process}
-Before a new building or structure can be built it needs to be designed. This design phase, here termed structural design phase, is a very important step of the building process. The total cost for the structure, energy performance, structural performance etc. are largely dependent on the result of the structural design process. 
+Before a new building or structure can be built it needs to be designed. This design phase, here termed \textit{structural design phase}, is a very important step of the building process. The total cost for the structure, energy performance, structural performance etc. are largely dependent on the result of the structural design process. 
 
 The structural design process is never a straightforward procedure. Rather, solutions are reached through an iterative, and often chaotic process. The process can be divided in to the four following steps \cite{schlaich2006challenges}:
 
 \begin{enumerate}  
-\item Conceiving: The most important design step where the overall design concept and significant details are developed.
-\item Modeling: Idealization and simplification of the structural design concept, building of models for structural analysis and calculation of forces.
-\item Dimensioning: Deciding sectional dimensions of structural members depending on the choice of materials.
-\item Detailing: Final details of nodes and connections including the creation of construction documents.
+\item \textbf{Conceiving}: The most important design step where the overall design concept and significant details are developed.
+\item \textbf{Modeling}: Idealization and simplification of the structural design concept, building of models for structural analysis and calculation of forces.
+\item \textbf{Dimensioning}: Deciding sectional dimensions of structural members depending on the choice of materials.
+\item \textbf{Detailing}: Final details of nodes and connections including the creation of construction documents.
 \end{enumerate}
 
-In reality there is not necessarily a clear distinction between the different design steps and the process can iteratively move forward and backwards until a solution is reached. In this thesis the term conceptual design refers to the first design step conceiving and the initial phase of the modeling step. In the initial design phase the design freedom is considerable. At the same time the impact on the final result of the of the decisions taken at this early stage are often crucial. In contrast, both the design knowledge and the availability of design tools increases as the design matures during the later design stages [2,3], see Figure \ref{fig:freedom-vs-knowledge} and Figure \ref{fig:impact-tools}. The design knowledge comprises of all that is known of the final design, from color of the facade to dimensions of structural members. The lack of tools for the initial design phase combined with the high impact of decisions creates an opportunity to develop such tools. Tools that can support the designer to make well informed decisions in the conceptual design phase.
+In reality there is not necessarily a clear distinction between the different design steps and the process can iteratively move forward and backwards until a solution is reached. In this thesis the term conceptual design refers to the first design step conceiving and the initial phase of the modeling step. In the initial design phase the design freedom is considerable. At the same time the impact on the final result of the of the decisions taken at this early stage are often crucial. In contrast, both the design knowledge and the availability of design tools increases as the design matures during the later design stages \cite{schlaich2006challenges} [3], see Figure \ref{fig:freedom-vs-knowledge} and Figure \ref{fig:impact-tools}. The design knowledge comprises of all that is known of the final design, from color of the facade to dimensions of structural members. The lack of tools for the initial design phase combined with the high impact of decisions creates an opportunity to develop such tools. Tools that can support the designer to make well informed decisions in the conceptual design phase.
 
 \begin{figure}
   \includegraphics[width=350pt]{graphics/freedom-vs-knowledge.eps}
@@ -21,7 +21,7 @@ In reality there is not necessarily a clear distinction between the different de
 \end{figure}
 
 \section{Problem statement}
-Many different geometric modeling tools are today available for architects. These geometric modeling tools have, since their introduction in the 1980s, grown increasingly sophisticated. They have also, together with the widespread perception of the benefits of technological innovation, created a more intimate relationship between technology and design. This relationship has resulted in parametric design and scripting methods that can generate complex shapes and forms [4]. The distinct separation found in practice where architect’s use geometric modeling tools and engineers use analysis tools further reinforces the architects role as form-giver and the engineer as form-verifier [5]. To move away from this separation, when the term designer is used in this thesis it represents either an engineer or an architect. Instead of the current practice, it would be beneficial if the engineer and architect would collaborate as designers in the structural design process. This would allow physical demands to work as an inspiration, rather then as a constraint of what is possible, to find new well performing geometric forms. Where physical demands can for example be: structural performance, construction costs, operational energy needs, acoustics.
+Many different geometric modeling tools are today available for architects. These geometric modeling tools have, since their introduction in the 1980s, grown increasingly sophisticated. They have also, together with the widespread perception of the benefits of technological innovation, created a more intimate relationship between technology and design. This relationship has resulted in parametric design and scripting methods that can generate complex shapes and forms [4]. The distinct separation found in practice where architect’s use geometric modeling tools and engineers use analysis tools further reinforces the architects role as \textit{form-giver }and the engineer as \textit{form-verifier }[5]. To move away from this separation, when the term \textit{designer }is used in this thesis it represents either an engineer or an architect. Instead of the current practice, it would be beneficial if the engineer and architect would collaborate as designers in the structural design process. This would allow physical demands to work as an inspiration, rather than as a constraint of what is possible, to find new well performing geometric forms. Where physical demands can for example be: structural performance, construction costs, operational energy needs, acoustics.
 
 In the current practice the architect often conceives a design without involvement of the structural engineer. Hence, the importance of the conceptual design phase is often overlooked and structural aspects are often only considered in a late design stage [6]. A contributing factor to this is that very few computational tools are available for conceptual design. 
 
@@ -63,7 +63,7 @@ Structural demands can be integrated earlier in the design process by using them
 
 A good example of well-executed conceptual designs are the structures designed by the Italian architect-engineer Pierre Luigi Nervi, see example in Figure \ref{fig:nervi}. Despite the complexity of his structures his designs were often selected because they were the cheapest to build [11], as less material was needed for his designs compared to his competitors. This type of complex concrete structure is unfeasible when labor costs are high, due to the extensive formwork required [12]. However, This is something which could of course change in the future with the emergence of robots and digital manufacturing [13].
 
-“His buildings are most remarkable for the clarity of their engineering. The power and grace of these extraordinary shapes and patterns stems directly from their structural logic, and are inseparable from it” – Ada Louise about Pierre Luigi Nervi, 1960 \cite{Mueller2014}
+\textit{''His buildings are most remarkable for the clarity of their engineering. The power and grace of these extraordinary shapes and patterns stems directly from their structural logic, and are inseparable from it''} – Ada Louise about Pierre Luigi Nervi, 1960 \cite{Mueller2014}
 
 The Shenzhen CITIC Financial Center, see Figure \ref{fig:Shenzen}, is a more recent example of well-executed integrated conceptual design. The perimeter frames are inspired by research on optimal discrete truss geometries to minimize the material needed [14].
 
@@ -105,7 +105,7 @@ There are different research approaches to investigate how the conceptual struct
 
 Many different computational methods exist that can be used for conceptual structural design. Some promising methods are presented in Chapter \ref{ch:Computational methods}, a selection of these methods have been used in the present work.
 
-\subsubsection{Outline}
+\subsection{Outline}
 \textbf{Part I} is an introduction to the research area and also literature review of previous work in this field. This part is similar to, but an extension of, the introductory sections in the appended papers. \textbf{Chapter \ref{ch:Introduction}}, is an introduction to the research area, and motivates why this work is important. \textbf{Chapter \ref{ch:Human-computer interaction}} introduces human-computer interaction to the reader and introduces state of the art technology, such as new input devices. \textbf{Chapter \ref{ch:Computational methods}} , presents computational methods that can be applied to conceptual design. Different optimization methods, especially the genetic algorithm, are thoroughly introduced; as these methods will be used in future work. \textbf{Chapter \ref{ch:Literature review}} reviews existing conceptual structural design tools. In \textbf{Chapter \ref{ch:Integrating structural feedback}} requirements for integrating structural feedback in the conceptual design are presented, and a summary of the present work is presented. The publications that this work has resulted in are presented in \textbf{Chapter \ref{ch:Summary of appended papers}} and \textbf{Chapter \ref{ch:Results discussion}} summarizes the present work and the intellectual contributions. \textbf{Part II}  is appended publications.
 
 
@@ -123,7 +123,7 @@ With new technology such as novel input devices and increased computational powe
 \section{Direct manipulation}
 Direct manipulation is a human-computer interaction style with continuous representation of objects of interest with rapid, reversible and incremental feedback [15]. Users can directly manipulate objects on the screen using real-world metaphors, which makes the users more engaged with their task and encouraged to further explorations [16]. This is achieved through reducing the perceptual and cognitive resources required to understand and use the user interface [17].
 
-\subsection{Visualizations}
+\section{Visualizations}
 Scientific visualization is a subfield of computer graphics. The purpose of scientific visualizations is to graphically illustrate scientific data. This is also important for any conceptual structural design software to be successful, how the result is visualized is of great importance. The result should be visualized in a way so that the user quickly can interpret the result and gain insight from it. 
 
 \begin{figure}
@@ -142,10 +142,10 @@ Edward Tufte is one of the pioneers in the field of data visualization with his 
 \item Graphical excellence in that which gives to the viewer the greatest number of ideas in the shortest time with the least ink in the smallest space.
 \end{itemize} 
 
-\subsection{Technology}
+\section{Technology}
 The introduction of different input devices such as the mouse and joystick significantly improved the human-computer interaction of user interfaces that adapted accordingly [17]. When the touch screen was introduced it had an advantage over all these devices. The user could literally touch objects on the screen to manipulate them, creating a very direct method of inputting information[17]. This closed the gap between the human and the computer.
 
-There is a wide repertoire of interaction techniques to create direct manipulation user interfaces for 3D applications using 2D input devices such as the mouse [21]. However, since this type of input devices have one degree of freedom less than the 3D user interface there will always exist a need of gestures or similar methods. 
+There is a wide repertoire of interaction techniques to create direct manipulation user interfaces for three-dimensional (3D) applications using two-dimensional (2D) input devices such as the mouse [21]. However, since this type of input devices have one degree of freedom less than the 3D user interface there will always exist a need of gestures or similar methods. 
 
 The Leap Motion controller [22], is a relatively small and simple input device that is placed in front of the users keyboard, it then tracks the users hands that are in the controllers field of vision. Combined with the software development kit (SDK), the controller creates a computational model of the users hands, which can then be used to interact with software in 3D. This enables very direct manipulations for 3D user interfaces.
 
@@ -247,7 +247,7 @@ This is not a standard optimization problem as the objective functions are optim
   \label{fig:designspace}
 \end{figure}
 
-Gradient-based methods make use of the first, and some the second, derivative to iteratively converge towards a solution. These types of methods are fast, consistent and the result is repeatable (no randomness). However, the solution space of the objective function needs to be convex (such as the design space in Figure \ref{fig:designspace}), continuous and at least once differentiable. The problem with using this type of methods for engineering and design, is that the problems are often so-called messy problems [2], that is non-convex solution spaces that contain multiple local optima. Examples of gradient-based methods are steepest descent and Newton-Rhapson [37]. 
+Gradient-based methods make use of the first, and some the second, derivative to iteratively converge towards a solution. These types of methods are fast, consistent and the result is repeatable (no randomness). However, the solution space of the objective function needs to be convex (such as the design space in Figure \ref{fig:designspace}), continuous and at least once differentiable. The problem with using this type of methods for engineering and design, is that the problems are often so-called messy problems \cite{schlaich2006challenges}, that is non-convex solution spaces that contain multiple local optima. Examples of gradient-based methods are steepest descent and Newton-Rhapson [37]. 
 
 \subsection{Evolutionary algorithms}
 Evolutionary algorithms are a collection of generic population-based heuristic optimization algorithms [38]. The algorithms are inspired by biological evolution, survival of the fittest and natural selection. The solvers introduce randomness to search the solution space, which improves the algorithms ability to find the global optima.
@@ -368,6 +368,8 @@ This type of conceptual design tools makes use of simple mathematical models to 
 The first tools were developed in academia but industry has shown interest in the concept. Autodesk launched a new application in 2011 named ForceEffect [56], which is available both as an tablet and as a web application. The application is developed for designers to analyze and visualize two-dimensional truss structures. The tablet application utilizes a direct manipulation user interface style where the user can make changes to the model by directly touching the objects. The commercial finite element (FE) software SAP2000 [57] launched in 2012 a model alive feature, this feature enables real-time feedback with deformations and forces for truss-structures [58].
 
 Recently an interactive physics engine was developed to create a user experience inspired by games for design and education [59]. The developed physics engine has been used to create an interactive game called Catastrophe, which aims to teach users which elements are critical to system stability through play.
+
+\subsection{Graphic statics tools}
 
 \begin{figure}
   \includegraphics[width=330pt]{graphics/equilibrium.png}
