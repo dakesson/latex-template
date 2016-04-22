@@ -91,7 +91,9 @@ Nielson, G.M., {Olsen Jr.}, D.R. (1987), \emph{{Direct Manipulation Techniques
 
 \bibitem{LeapMotion2013}
 {Leap Motion} (2013), \emph{{Leap Motion Launches World's Most Accurate 3-D
-  Motion Control Technology for Computin}}.
+  Motion Control Technology for Computin}},
+  \url{https://www.leapmotion.com/news/leap-motion-launches-world-s-most-accurate-3-d-motion-control-\\technology-for-computing},
+  [Online; accessed 2015-10-22].
 
 \bibitem{Kosmadoudi2013}
 Kosmadoudi, Z., Lim, T., Ritchie, J., Louchart, S., Liu, Y., Sung, R. (2013),
@@ -100,19 +102,27 @@ Kosmadoudi, Z., Lim, T., Ritchie, J., Louchart, S., Liu, Y., Sung, R. (2013),
   \textbf{45}(3), 777--795.
 
 \bibitem{Nintendo}
-Nintendo, \emph{{Nintendo Wii}}.
+Nintendo, \emph{{Nintendo Wii}}, \url{http://www.nintendo.com/wiiu}, [Online;
+  accessed 2015-10-13].
 
 \bibitem{Microsoft}
-Microsoft, \emph{{Kinect}}.
+Microsoft, \emph{{Kinect}},
+  \url{http://www.xbox.com/en-US/xbox-360/accessories/kinect}, [Online;
+  accessed 2015-10-13].
 
 \bibitem{Playstationa}
-Playstation, \emph{{Playstation Move}}.
+Playstation, \emph{{Playstation Move}},
+  \url{https://www.playstation.com/en-us/explore/accessories/playstation-move/},
+  [Online; accessed 2015-10-14].
 
 \bibitem{Oculus}
-\emph{{Oculus Rift}}.
+\emph{{Oculus Rift}}, \url{https://www.oculus.com/}, [Online; accessed
+  2015-10-23].
 
 \bibitem{Playstation}
-Playstation, \emph{{Project Morpheus}}.
+Playstation, \emph{{Project Morpheus}},
+  \url{https://www.playstation.com/en-us/explore/project-morpheus/}, [Online;
+  accessed 2015-10-23].
 
 \bibitem{fogarty2014exploring}
 Fogarty, J., El-Tawil, S., \emph{{Exploring Complex Spatial Arrangements and
@@ -194,7 +204,8 @@ Olsson, P. (2006), \emph{{Conceptual studies in structural design:
 Culmann, K. (1866), \emph{{Die graphische Statik}}.
 
 \bibitem{Block}
-Block, P., \emph{{eQUILIBRIUM}}.
+Block, P., \emph{{eQUILIBRIUM}}, \url{http://block.arch.ethz.ch/equilibrium/},
+  [Online; accessed 2016-01-12].
 
 \bibitem{Fivet2013}
 Fivet, C., Zastavni, D. (2013), \emph{{Constraint-based graphic statics: New
@@ -207,16 +218,20 @@ Aish, R., Woodbury, R. (2005), \emph{{Multi-level interaction in parametric
   design}}, Springer Berlin Heidelberg.
 
 \bibitem{Rhino}
-\emph{{Rhinoceros 3D}}.
+\emph{{Rhinoceros 3D}}, \url{http://www.rhino3d.com/}, [Online; accessed
+  2016-01-05].
 
 \bibitem{Grasshopper}
-\emph{{Grasshopper}}.
+\emph{{Grasshopper}}, \url{http://www.grasshopper3d.com/}, [Online; accessed
+  2015-10-05].
 
 \bibitem{Dynamo}
-\emph{{Dynamo}}.
+\emph{{Dynamo}}, \url{http://www.autodesk.com/products/dynamo-studio/overview},
+  [Online; accessed 2015-11-05].
 
 \bibitem{Karamba}
-\emph{{Karamba}}.
+\emph{{Karamba}}, \url{http://www.karamba3d.com/}, [Online; accessed
+  2015-10-05].
 
 \bibitem{Shea2005}
 Shea, K., Aish, R., Gourtovaia, M. (2005), \emph{{Towards integrated
@@ -230,10 +245,13 @@ Martini, K. (2008), \emph{{A new kind of software for teaching structural
 
 \bibitem{Autodesk2011}
 Autodesk (2011), \emph{{Industry First: Autodesk Takes Simulation Mobile with
-  New ForceEffect App for iPad}}.
+  New ForceEffect App for iPad}},
+  \url{http://news.autodesk.com/press-release/industry-first-autodesk-takes-simulation-mobile-new-forceeffect-app-ipad},
+  [Online; accessed 2015-10-22].
 
 \bibitem{sap2000}
-CSIAmerica, \emph{{SAP2000}}.
+CSIAmerica, \emph{{SAP2000}}, \url{http://www.csiamerica.com/products/sap2000},
+  [Online; accessed 2016-01-21].
 
 \bibitem{clune2012object}
 Clune, R., Connor, J.J., Ochsendorf, J.A., Kelliher, D. (2012), \emph{{An
@@ -245,17 +263,23 @@ Senatore, G., Piker, D. (2015), \emph{{Interactive real-time physics}},
   Computer-Aided Design \textbf{61}, 32--41.
 
 \bibitem{ActiveStatics}
-\emph{{ActiveStatics}}.
+\emph{{ActiveStatics}},
+  \url{http://acg.media.mit.edu/people/simong/statics/Start.html}, [Online;
+  accessed 2016-01-12].
 
 \bibitem{CADenary}
-\emph{{CADenary}}.
+\emph{{CADenary}},
+  \url{http://designexplorer.net/newscreens/cadenarytool/cadenarytool.html},
+  [Online; accessed 2016-01-12].
 
 \bibitem{VonBuelow2008}
 {Von Buelow}, P. (2008), \emph{{Suitability of genetic based exploration in the
   creative design process}}, Digital Creativity \textbf{19}(1), 51--61.
 
 \bibitem{Mueller2013}
-Mueller, C., \emph{{StructureFIT}}.
+Mueller, C., \emph{{StructureFIT}},
+  \url{http://www.caitlinmueller.com/structurefit/}, [Online; accessed
+  2015-10-16].
 
 \bibitem{Mueller2015}
 Mueller, C.T., Ochsendorf, J.A. (2015), \emph{{Combining structural performance

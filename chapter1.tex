@@ -127,7 +127,7 @@ Direct manipulation is a human-computer interaction style with continuous repres
 Scientific visualization is a subfield of computer graphics. The purpose of scientific visualizations is to graphically illustrate scientific data. This is also important for any conceptual structural design software to be successful, how the result is visualized is of great importance. The result should be visualized in a way so that the user quickly can interpret the result and gain insight from it. 
 
 \begin{figure}
-  \includegraphics[width=350pt]{graphics/car.jpg}
+  \includegraphics[width=320pt]{graphics/car.jpg}
   \caption{Visualization of how a car deforms in an asymmetrical crash using finite element analysis.}
   \label{fig:Car}
 \end{figure}
@@ -177,7 +177,7 @@ A number of different form finding methods exists, and they can be divided into 
 
 \subsection{Dynamic relaxation}
 \label{sec:dr}
-Dynamic relaxation is a method to solve a set of non-linear equations. The method computes the movement of a structure over time to find static equilibrium between the internal and external forces \cite{Day1965}\cite{barnes1988form}. 
+Dynamic relaxation is a method to solve a set of non-linear equations. The method computes the movement of a structure over time to find static equilibrium between the internal and external forces \cite{Day1965, barnes1988form}. 
 
 In each time step,  $\Delta t$, for all elements are computed from the nodal displacements u. A residual, R, can be computed by using 
 
@@ -304,7 +304,7 @@ This is a standard eigenproblem. The eigenvalues   $\lambda$ have the unit force
 \section{Graphic statics}
 Graphic statics is a graphical method to find funicular shapes and compute forces for structural models through the use of a force diagram. The method was first published in 1886 by Karl Culmann \cite{Culmann1866}, the method was widely used until the 1970s, when the increase in computational power made numerical simulations widely available. 
 
-The method has recently gained attention from the research community \cite{Todisco2015}\cite{Block}\cite{Fivet2013} because of its simplicity and power. However, the method is limited to statically determinate problems with axially loaded members. 
+The method has recently gained attention from the research community \cite{Todisco2015, Block, Fivet2013} because of its simplicity and power. However, the method is limited to statically determinate problems with axially loaded members. 
 
 
 %%%%% NEW CHAPTER
@@ -390,7 +390,7 @@ Multiple graphic static computational design tools have been developed; they mak
 
 Genetic algorithm can easily be used for interactive optimization, where the user can intervene the selection process and direct the population in a desired direction. Such applications have been developed for conceptual structural design, to generate and analyze structures such as bridges and trusses. One such tool is von Buelow’s interactive evolutionary design tool \cite{VonBuelow2008}, which has support for both 2D and 3D structures.
 
-Another similar application, developed as a web application, is named StructureFIT \cite{Mueller2013}\cite{Mueller2015}, see Figure \ref{fig:structurefit}. The software tool also has a direct manipulation mode where the user can further explore a generated structure by moving nodes and in real-time see how a relative performance index is updated. Another version of this tool has been developed for Grasshopper \cite{Grasshopper}, named Stormcloud \cite{Danhaive2015}.
+Another similar application, developed as a web application, is named StructureFIT \cite{Mueller2013, Mueller2015}, see Figure \ref{fig:structurefit}. The software tool also has a direct manipulation mode where the user can further explore a generated structure by moving nodes and in real-time see how a relative performance index is updated. Another version of this tool has been developed for Grasshopper \cite{Grasshopper}, named Stormcloud \cite{Danhaive2015}.
 
 \subsection{Topology optimization design tools}
 Two other applications that were developed in academia for design exploration through the use of topology optimization are ForcePad (see Figure \ref{fig:forcepad}) \cite{Lindemann2004} and TopOpt \cite{Aage2013}. In the two applications a 2D geometry is modeled by use of conventional drawing tools, a metaphor for “drawing with stiffness”. A topology optimization is then performed on the geometry and the resulting optimized shape is visualized. The applications also have an interactive mode where forces can be manipulated, and the resulting stresses updated in real-time.
@@ -455,7 +455,7 @@ Form finding can be used to find the static equilibrium for a structure under lo
 \section{Visual representations}
 After structural analysis computations have been performed the result can be visualized. For conceptual structural design tools, visualization where the user can quickly get an understanding of the results are sought. 
 
-One such example is graphostatics, which visualize forces as lengths of lines in the force diagram. This is beneficial for the users understanding, compared to using colors to represent the size of the forces, as it removes a layer of abstraction. The user can directly understand the size of the forces without the need of a for example a colorbar.
+One such example is graphic statics, which visualize forces as lengths of lines in the force diagram. This is beneficial for the users understanding, compared to using colors to represent the size of the forces, as it removes a layer of abstraction. The user can directly understand the size of the forces without the need of a for example a colorbar.
 
 To visualize dynamic behavior animations can be used. This is used in the application developed in Paper A – if a force is applied to a non-stable model the corresponding mechanism is visualized by using an animation. This allows the user to quickly understand the model’s non-stable behavior, and how the model needs to be modified in order to make it stable. 
 

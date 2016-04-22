@@ -6,7 +6,7 @@ A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: sammanfattning.aux
 A level-1 auxiliary file: chapter1.aux
 The style file: mystyle.bst
-Database file #1: thesis-library.bib
+Database file #1: thesis-library2.bib
 Warning--can't use both volume and number fields in schlaich2006challenges
 Warning--empty booktitle in Froderberg2014
 Warning--empty author and editor in MadeByRobots
@@ -15,37 +15,37 @@ Warning--missing institution in Olsson2003
 Warning--missing publisher in Culmann1866
 You've used 67 entries,
             2384 wiz_defined-function locations,
-            940 strings with 13812 characters,
-and the built_in function-call counts, 20700 in all, are:
-= -- 1384
+            986 strings with 16236 characters,
+and the built_in function-call counts, 21164 in all, are:
+= -- 1448
 > -- 394
 < -- 3
 + -- 176
 - -- 109
-* -- 1257
-:= -- 2129
+* -- 1305
+:= -- 2161
 add.period$ -- 67
 call.type$ -- 67
-change.case$ -- 2
+change.case$ -- 18
 chr.to.int$ -- 0
 cite$ -- 73
-duplicate$ -- 2447
-empty$ -- 2359
+duplicate$ -- 2511
+empty$ -- 2391
 format.name$ -- 137
-if$ -- 4492
+if$ -- 4604
 int.to.chr$ -- 0
 int.to.str$ -- 67
-missing$ -- 499
+missing$ -- 515
 newline$ -- 204
 num.names$ -- 59
-pop$ -- 1030
+pop$ -- 1056
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 473
+skip$ -- 415
 stack$ -- 0
-substring$ -- 1270
-swap$ -- 1198
+substring$ -- 1302
+swap$ -- 1246
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
@@ -53,5 +53,5 @@ type$ -- 0
 warning$ -- 6
 while$ -- 169
 width$ -- 69
-write$ -- 556
+write$ -- 588
 (There were 6 warnings)
