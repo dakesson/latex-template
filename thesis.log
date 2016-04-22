@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.21)  22 APR 2016 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.21)  22 APR 2016 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1987,7 +1987,7 @@ dge-eps-converted-to.pdf graphics/freedom-vs-knowledge.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
 
-<graphics/freedom-vs-knowledge-eps-converted-to.pdf, id=326, 456.70625pt x 290.
+<graphics/freedom-vs-knowledge-eps-converted-to.pdf, id=329, 456.70625pt x 290.
 08376pt>
 File: graphics/freedom-vs-knowledge-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -2008,14 +2008,14 @@ converted-to.pdf graphics/impact-tools.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
 
-<graphics/impact-tools-eps-converted-to.pdf, id=345, 456.70625pt x 290.08376pt>
+<graphics/impact-tools-eps-converted-to.pdf, id=353, 456.70625pt x 290.08376pt>
 File: graphics/impact-tools-eps-converted-to.pdf Graphic file (type pdf)
 <use graphics/impact-tools-eps-converted-to.pdf>
 Package pdftex.def Info: graphics/impact-tools-eps-converted-to.pdf used on inp
 ut line 29.
 (pdftex.def)             Requested size: 350.0pt x 222.31613pt.
  [3 <./graphics/impact-tools-eps-converted-to.pdf>]
-<graphics/hiarchical-modelling.png, id=362, 614.295pt x 285.065pt>
+<graphics/hiarchical-modelling.png, id=376, 614.295pt x 285.065pt>
 File: graphics/hiarchical-modelling.png Graphic file (type png)
 
 <use graphics/hiarchical-modelling.png>
@@ -2023,14 +2023,14 @@ Package pdftex.def Info: graphics/hiarchical-modelling.png used on input line 4
 6.
 (pdftex.def)             Requested size: 270.0pt x 125.29414pt.
  [4 <./graphics/hiarchical-modelling.png (PNG copy)>] <graphics/nervi.jpg, id=3
-68, 622.325pt x 444.66125pt>
+87, 622.325pt x 444.66125pt>
 File: graphics/nervi.jpg Graphic file (type jpg)
 
 <use graphics/nervi.jpg>
 Package pdftex.def Info: graphics/nervi.jpg used on input line 59.
 (pdftex.def)             Requested size: 350.0pt x 250.08063pt.
  [5 <./graphics/nervi.jpg>]
-<graphics/shenzen.jpg, id=379, 803.0pt x 620.3175pt>
+<graphics/shenzen.jpg, id=405, 803.0pt x 620.3175pt>
 File: graphics/shenzen.jpg Graphic file (type jpg)
 
 <use graphics/shenzen.jpg>
@@ -2046,7 +2046,7 @@ igner to-wards well-performing
 
 [6 <./graphics/shenzen.jpg>] [7] [8]
 Chapter 2.
-<graphics/car.jpg, id=402, 702.625pt x 526.96875pt>
+<graphics/car.jpg, id=432, 702.625pt x 526.96875pt>
 File: graphics/car.jpg Graphic file (type jpg)
  <use graphics/car.jpg>
 Package pdftex.def Info: graphics/car.jpg used on input line 130.
@@ -2058,21 +2058,21 @@ Package pdftex.def Info: graphics/car.jpg used on input line 130.
 
 ]
 Chapter 3.
-<graphics/stevin.png, id=422, 1199.48125pt x 339.2675pt>
+<graphics/stevin.png, id=487, 1199.48125pt x 339.2675pt>
 File: graphics/stevin.png Graphic file (type png)
 
 <use graphics/stevin.png>
 Package pdftex.def Info: graphics/stevin.png used on input line 173.
 (pdftex.def)             Requested size: 310.0pt x 87.67943pt.
  [13] [14 <./graphics/stevin.png>] [15]
-<graphics/designspace.png, id=446, 937.5025pt x 774.895pt>
+<graphics/designspace.png, id=528, 937.5025pt x 774.895pt>
 File: graphics/designspace.png Graphic file (type png)
 
 <use graphics/designspace.png>
 Package pdftex.def Info: graphics/designspace.png used on input line 245.
 (pdftex.def)             Requested size: 310.0pt x 256.22456pt.
  [16 <./graphics/designspace.png (PNG copy)>]
-<graphics/ga.png, id=455, 940.51375pt x 187.70125pt>
+<graphics/ga.png, id=539, 940.51375pt x 187.70125pt>
 File: graphics/ga.png Graphic file (type png)
  <use graphics/ga.png>
 Package pdftex.def Info: graphics/ga.png used on input line 258.
@@ -2094,7 +2094,7 @@ e-eps-converted-to.pdf graphics/conventional-cycle.eps>
 (epstopdf)             \includegraphics on input line 320.
 Package epstopdf Info: Output file is already uptodate.
 
-<graphics/conventional-cycle-eps-converted-to.pdf, id=484, 566.115pt x 60.225pt
+<graphics/conventional-cycle-eps-converted-to.pdf, id=589, 566.115pt x 60.225pt
 >
 File: graphics/conventional-cycle-eps-converted-to.pdf Graphic file (type pdf)
  <use graphics/conventional-cycle-eps-converted-to.pdf>
@@ -2102,14 +2102,14 @@ Package pdftex.def Info: graphics/conventional-cycle-eps-converted-to.pdf used
 on input line 320.
 (pdftex.def)             Requested size: 310.0pt x 32.97955pt.
 
-<graphics/abaqus.png, id=485, 677.53125pt x 366.61969pt>
+<graphics/abaqus.png, id=590, 677.53125pt x 366.61969pt>
 File: graphics/abaqus.png Graphic file (type png)
 
 <use graphics/abaqus.png>
 Package pdftex.def Info: graphics/abaqus.png used on input line 326.
 (pdftex.def)             Requested size: 350.0pt x 189.39583pt.
 
-<graphics/sketchpad.jpg, id=486, 564.60938pt x 444.15938pt>
+<graphics/sketchpad.jpg, id=591, 564.60938pt x 444.15938pt>
 File: graphics/sketchpad.jpg Graphic file (type jpg)
 
 <use graphics/sketchpad.jpg>
@@ -2117,28 +2117,28 @@ Package pdftex.def Info: graphics/sketchpad.jpg used on input line 334.
 (pdftex.def)             Requested size: 350.0pt x 275.3353pt.
  [21 <./graphics/conventional-cycle-eps-converted-to.pdf>] [22 <./graphics/abaq
 us.png> <./graphics/sketchpad.jpg>]
-<graphics/pointsketch.png, id=508, 1084.05pt x 837.1275pt>
+<graphics/pointsketch.png, id=622, 1084.05pt x 837.1275pt>
 File: graphics/pointsketch.png Graphic file (type png)
 
 <use graphics/pointsketch.png>
 Package pdftex.def Info: graphics/pointsketch.png used on input line 361.
 (pdftex.def)             Requested size: 350.0pt x 270.27492pt.
  [23] [24 <./graphics/pointsketch.png>]
-<graphics/equilibrium.png, id=519, 778.91pt x 359.3425pt>
+<graphics/equilibrium.png, id=648, 778.91pt x 359.3425pt>
 File: graphics/equilibrium.png Graphic file (type png)
 
 <use graphics/equilibrium.png>
 Package pdftex.def Info: graphics/equilibrium.png used on input line 375.
 (pdftex.def)             Requested size: 330.0pt x 152.23875pt.
 
-<graphics/structurefit.png, id=521, 1557.82pt x 988.69376pt>
+<graphics/structurefit.png, id=655, 1557.82pt x 988.69376pt>
 File: graphics/structurefit.png Graphic file (type png)
 
 <use graphics/structurefit.png>
 Package pdftex.def Info: graphics/structurefit.png used on input line 386.
 (pdftex.def)             Requested size: 350.0pt x 222.12968pt.
  [25 <./graphics/equilibrium.png>]
-<graphics/forcepad.png, id=532, 1775.63374pt x 709.65125pt>
+<graphics/forcepad.png, id=679, 1775.63374pt x 709.65125pt>
 File: graphics/forcepad.png Graphic file (type png)
 
 <use graphics/forcepad.png>
@@ -2164,7 +2164,7 @@ Package epstopdf Info: Source file: <graphics/interaction.eps>
 onverted-to.pdf graphics/interaction.eps>
 (epstopdf)             \includegraphics on input line 418.
 Package epstopdf Info: Output file is already uptodate.
-<graphics/interaction-eps-converted-to.pdf, id=549, 675.52374pt x 503.8825pt>
+<graphics/interaction-eps-converted-to.pdf, id=699, 675.52374pt x 503.8825pt>
 File: graphics/interaction-eps-converted-to.pdf Graphic file (type pdf)
 
 <use graphics/interaction-eps-converted-to.pdf>
@@ -2172,7 +2172,7 @@ Package pdftex.def Info: graphics/interaction-eps-converted-to.pdf used on inpu
 t line 418.
 (pdftex.def)             Requested size: 330.0pt x 246.15878pt.
  [29]
-<graphics/performance-feedback.png, id=555, 1204.5pt x 882.1758pt>
+<graphics/performance-feedback.png, id=705, 1204.5pt x 882.1758pt>
 File: graphics/performance-feedback.png Graphic file (type png)
 
 <use graphics/performance-feedback.png>
@@ -2181,7 +2181,7 @@ Package pdftex.def Info: graphics/performance-feedback.png used on input line 4
 (pdftex.def)             Requested size: 350.0pt x 256.33594pt.
  [30 <./graphics/interaction-eps-converted-to.pdf>] [31 <./graphics/performance
 -feedback.png>]
-<graphics/ipad-ga.png, id=576, 1081.03876pt x 687.56876pt>
+<graphics/ipad-ga.png, id=726, 1081.03876pt x 687.56876pt>
 File: graphics/ipad-ga.png Graphic file (type png)
 
 <use graphics/ipad-ga.png>
@@ -2200,7 +2200,7 @@ f>
 (epstopdf)             \includegraphics on input line 472.
 Package epstopdf Info: Output file is already uptodate.
 
-<graphics/flowlines-exp-eps-converted-to.pdf, id=584, 443.6575pt x 832.10875pt>
+<graphics/flowlines-exp-eps-converted-to.pdf, id=734, 443.6575pt x 832.10875pt>
 File: graphics/flowlines-exp-eps-converted-to.pdf Graphic file (type pdf)
 <use graphics/flowlines-exp-eps-converted-to.pdf>
 Package pdftex.def Info: graphics/flowlines-exp-eps-converted-to.pdf used on in
@@ -2229,7 +2229,7 @@ df>
 s-converted-to.pdf graphics/softwareReview.eps>
 (epstopdf)             \includegraphics on input line 525.
 Package epstopdf Info: Output file is already uptodate.
-<graphics/softwareReview-eps-converted-to.pdf, id=624, 481.8pt x 247.92625pt>
+<graphics/softwareReview-eps-converted-to.pdf, id=778, 481.8pt x 247.92625pt>
 File: graphics/softwareReview-eps-converted-to.pdf Graphic file (type pdf)
 
 <use graphics/softwareReview-eps-converted-to.pdf>
@@ -2241,15 +2241,15 @@ Overfull \hbox (2.20056pt too wide) in paragraph at lines 535--535
 |\T1/cmss/bx/n/14.4 7.1 SUM-MARY OF IN-TEL-LEC-TUAL CON-TRI-BU-TIONS| 
  []
 
-[39 <./graphics/softwareReview-eps-converted-to.pdf>]) [40] (./thesis.bbl)
+[39 <./graphics/softwareReview-eps-converted-to.pdf>]) [40] (./thesis.bbl
 [41
 
 
 
 
-] [42
+] [42] [43] [44]) [45] [46
 
-] [43] [44]
+] [47] [48]
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <20> not available
 (Font)              size <20.74> substituted on input line 144.
@@ -2263,11 +2263,11 @@ Overfull \hbox (26.26378pt too wide) in paragraph at lines 144--144
 [][] 
  []
 
-[45
+[49
 
-] [46
+] [50
 
-] <PaperA.pdf, id=682, 597.23125pt x 845.1575pt>
+] <PaperA.pdf, id=854, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
  <use PaperA.pdf>
 Package pdftex.def Info: PaperA.pdf used on input line 151.
@@ -2277,7 +2277,7 @@ File: PaperA.pdf Graphic file (type pdf)
 <use PaperA.pdf>
 Package pdftex.def Info: PaperA.pdf used on input line 151.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
- <PaperA.pdf, id=685, page=1, 597.23125pt x 845.1575pt>
+ <PaperA.pdf, id=857, page=1, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 1>
@@ -2300,8 +2300,8 @@ File: PaperA.pdf Graphic file (type pdf)
  <use PaperA.pdf, page 1>
 Package pdftex.def Info: PaperA.pdf, page1 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
- [47 <./PaperA.pdf>]
-<PaperA.pdf, id=717, page=2, 597.23125pt x 845.1575pt>
+ [51 <./PaperA.pdf>]
+<PaperA.pdf, id=889, page=2, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 2>
@@ -2316,7 +2316,7 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page2 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[48 <./PaperA.pdf>] <PaperA.pdf, id=739, page=3, 597.23125pt x 845.1575pt>
+[52 <./PaperA.pdf>] <PaperA.pdf, id=910, page=3, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 3>
@@ -2331,7 +2331,7 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page3 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[49 <./PaperA.pdf>] <PaperA.pdf, id=791, page=4, 597.23125pt x 845.1575pt>
+[53 <./PaperA.pdf>] <PaperA.pdf, id=961, page=4, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 4>
@@ -2346,7 +2346,7 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page4 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[50 <./PaperA.pdf>] <PaperA.pdf, id=809, page=5, 597.23125pt x 845.1575pt>
+[54 <./PaperA.pdf>] <PaperA.pdf, id=980, page=5, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 5>
@@ -2361,7 +2361,7 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page5 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[51 <./PaperA.pdf>] <PaperA.pdf, id=821, page=6, 597.23125pt x 845.1575pt>
+[55 <./PaperA.pdf>] <PaperA.pdf, id=993, page=6, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 6>
@@ -2376,7 +2376,7 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page6 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[52 <./PaperA.pdf>] <PaperA.pdf, id=829, page=7, 597.23125pt x 845.1575pt>
+[56 <./PaperA.pdf>] <PaperA.pdf, id=1001, page=7, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 7>
@@ -2391,7 +2391,7 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page7 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[53 <./PaperA.pdf>] <PaperA.pdf, id=837, page=8, 597.23125pt x 845.1575pt>
+[57 <./PaperA.pdf>] <PaperA.pdf, id=1009, page=8, 597.23125pt x 845.1575pt>
 File: PaperA.pdf Graphic file (type pdf)
 
 <use PaperA.pdf, page 8>
@@ -2406,16 +2406,16 @@ File: PaperA.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperA.pdf, page8 used on input line 151.
 (pdftex.def)             Requested size: 597.76744pt x 845.9163pt.
 
-[54 <./PaperA.pdf>]
+[58 <./PaperA.pdf>]
 Overfull \hbox (26.26378pt too wide) in paragraph at lines 164--164
 [][] 
  []
 
-[55
+[59
 
-] [56
+] [60
 
-] <PaperB.pdf, id=860, 597.23125pt x 845.1575pt>
+] <PaperB.pdf, id=1031, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
  <use PaperB.pdf>
 Package pdftex.def Info: PaperB.pdf used on input line 168.
@@ -2425,7 +2425,7 @@ File: PaperB.pdf Graphic file (type pdf)
 <use PaperB.pdf>
 Package pdftex.def Info: PaperB.pdf used on input line 168.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
- <PaperB.pdf, id=863, page=1, 597.23125pt x 845.1575pt>
+ <PaperB.pdf, id=1034, page=1, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 1>
@@ -2448,8 +2448,8 @@ File: PaperB.pdf Graphic file (type pdf)
  <use PaperB.pdf, page 1>
 Package pdftex.def Info: PaperB.pdf, page1 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
- [57 <./PaperB.pdf>]
-<PaperB.pdf, id=907, page=2, 597.23125pt x 845.1575pt>
+ [61 <./PaperB.pdf>]
+<PaperB.pdf, id=1078, page=2, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 2>
@@ -2464,7 +2464,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page2 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[58 <./PaperB.pdf>] <PaperB.pdf, id=912, page=3, 597.23125pt x 845.1575pt>
+[62 <./PaperB.pdf>] <PaperB.pdf, id=1083, page=3, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 3>
@@ -2479,7 +2479,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page3 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[59 <./PaperB.pdf>] <PaperB.pdf, id=919, page=4, 597.23125pt x 845.1575pt>
+[63 <./PaperB.pdf>] <PaperB.pdf, id=1090, page=4, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 4>
@@ -2494,7 +2494,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page4 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[60 <./PaperB.pdf>] <PaperB.pdf, id=936, page=5, 597.23125pt x 845.1575pt>
+[64 <./PaperB.pdf>] <PaperB.pdf, id=1107, page=5, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 5>
@@ -2509,7 +2509,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page5 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[61 <./PaperB.pdf>] <PaperB.pdf, id=948, page=6, 597.23125pt x 845.1575pt>
+[65 <./PaperB.pdf>] <PaperB.pdf, id=1118, page=6, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 6>
@@ -2524,7 +2524,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page6 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[62 <./PaperB.pdf>] <PaperB.pdf, id=957, page=7, 597.23125pt x 845.1575pt>
+[66 <./PaperB.pdf>] <PaperB.pdf, id=1127, page=7, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 7>
@@ -2539,7 +2539,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page7 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[63 <./PaperB.pdf>] <PaperB.pdf, id=972, page=8, 597.23125pt x 845.1575pt>
+[67 <./PaperB.pdf>] <PaperB.pdf, id=1144, page=8, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 8>
@@ -2554,7 +2554,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page8 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[64 <./PaperB.pdf>] <PaperB.pdf, id=984, page=9, 597.23125pt x 845.1575pt>
+[68 <./PaperB.pdf>] <PaperB.pdf, id=1156, page=9, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 9>
@@ -2569,7 +2569,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page9 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[65 <./PaperB.pdf>] <PaperB.pdf, id=993, page=10, 597.23125pt x 845.1575pt>
+[69 <./PaperB.pdf>] <PaperB.pdf, id=1165, page=10, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 10>
@@ -2584,7 +2584,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page10 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[66 <./PaperB.pdf>] <PaperB.pdf, id=1007, page=11, 597.23125pt x 845.1575pt>
+[70 <./PaperB.pdf>] <PaperB.pdf, id=1179, page=11, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 11>
@@ -2599,7 +2599,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page11 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[67 <./PaperB.pdf>] <PaperB.pdf, id=1019, page=12, 597.23125pt x 845.1575pt>
+[71 <./PaperB.pdf>] <PaperB.pdf, id=1190, page=12, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 12>
@@ -2614,7 +2614,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page12 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[68 <./PaperB.pdf>] <PaperB.pdf, id=1030, page=13, 597.23125pt x 845.1575pt>
+[72 <./PaperB.pdf>] <PaperB.pdf, id=1201, page=13, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 13>
@@ -2629,7 +2629,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page13 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[69 <./PaperB.pdf>] <PaperB.pdf, id=1035, page=14, 597.23125pt x 845.1575pt>
+[73 <./PaperB.pdf>] <PaperB.pdf, id=1207, page=14, 597.23125pt x 845.1575pt>
 File: PaperB.pdf Graphic file (type pdf)
 
 <use PaperB.pdf, page 14>
@@ -2644,7 +2644,7 @@ File: PaperB.pdf Graphic file (type pdf)
 Package pdftex.def Info: PaperB.pdf, page14 used on input line 168.
 (pdftex.def)             Requested size: 506.19351pt x 562.3173pt.
 
-[70 <./PaperB.pdf>]
+[74 <./PaperB.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
  (./thesis.aux (./acknowledgments.aux) (./abstract.aux)
@@ -2661,13 +2661,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
  ) 
 Here is how much of TeX's memory you used:
- 40517 strings out of 493027
- 913994 string characters out of 6134069
- 1027581 words of memory out of 5000000
- 43195 multiletter control sequences out of 15000+600000
+ 40651 strings out of 493027
+ 916097 string characters out of 6134069
+ 1029890 words of memory out of 5000000
+ 43260 multiletter control sequences out of 15000+600000
  28501 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,18n,77p,10378b,867s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,18n,77p,10378b,878s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
@@ -2690,10 +2690,10 @@ dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/2015/texmf-di
 st/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2015/texmf-dist/f
 onts/type1/public/cm-super/sfti1095.pfb>
-Output written on thesis.pdf (82 pages, 11106358 bytes).
+Output written on thesis.pdf (86 pages, 11129609 bytes).
 PDF statistics:
- 1148 PDF objects out of 1200 (max. 8388607)
- 853 compressed objects within 9 object streams
- 165 named destinations out of 1000 (max. 500000)
+ 1335 PDF objects out of 1440 (max. 8388607)
+ 1032 compressed objects within 11 object streams
+ 234 named destinations out of 1000 (max. 500000)
  647 words of extra memory for PDF output out of 10000 (max. 10000000)
 

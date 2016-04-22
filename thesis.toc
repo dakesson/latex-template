@@ -49,4 +49,4 @@
 \contentsline {section}{\numberline {7.1}Summary of intellectual contributions}{40}{section.7.1}
 \contentsline {section}{\numberline {7.2}Future work}{40}{section.7.2}
 \contentsline {chapter}{References}{41}{section*.22}
-\contentsline {part}{II\hspace {1em}Appended publications}{43}{part.2}
+\contentsline {part}{II\hspace {1em}Appended publications}{47}{part.2}
