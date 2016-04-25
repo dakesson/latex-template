@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  22 APR 2016 17:02
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  25 APR 2016 11:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -24,104 +24,19 @@ File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/floatrow/floatrow.sty
-Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+(/usr/local/texlive/2015/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
+ pages
+(/usr/local/texlive/2015/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen103
-\captionmargin@=\dimen104
-\captionwidth=\dimen105
-\caption@tempdima=\dimen106
-\caption@indent=\dimen107
-\caption@parindent=\dimen108
-\caption@hangindent=\dimen109
-)
-\c@float@type=\count88
-\float@exts=\toks15
-\float@box=\box26
-\@floatcapt=\box27
-Package floatrow Info: Modified float package code loaded on input line 455.
-Package floatrow Info: Modified rotfloat package code loaded on input line 473.
-
-\FR@everyfloat=\toks16
-\flrow@foot=\box28
-\FB@wd=\dimen110
-\FBo@wd=\dimen111
-\FBc@wd=\dimen112
-\FBo@ht=\skip43
-\FBc@ht=\skip44
-\FBf@ht=\skip45
-\FBo@max=\skip46
-\FBc@max=\skip47
-\FBf@max=\skip48
-\c@FBl@b=\count89
-\floatbox@depth=\count90
-\c@FRobj=\count91
-\c@FRsobj=\count92
-\Xhsize=\skip49
-\sXhsize=\skip50
-\Zhsize=\skip51
-\sZhsize=\skip52
-\flrow@rowbox=\box29
-\FR@Zunitlength=\dimen113
-\c@FBcnt=\count93
-\FPOScnt=\count94
-\LTleft=\skip53
-\LTright=\skip54
-\LTleft=\skip55
-\LTright=\skip56
-\flrow@types=\toks17
-)
-(./preamble.tex
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip57
-\cftbeforetoctitleskip=\skip58
-\cftaftertoctitleskip=\skip59
-\cftbeforepartskip=\skip60
-\cftpartnumwidth=\skip61
-\cftpartindent=\skip62
-\cftbeforechapskip=\skip63
-\cftchapindent=\skip64
-\cftchapnumwidth=\skip65
-\cftbeforesecskip=\skip66
-\cftsecindent=\skip67
-\cftsecnumwidth=\skip68
-\cftbeforesubsecskip=\skip69
-\cftsubsecindent=\skip70
-\cftsubsecnumwidth=\skip71
-\cftbeforesubsubsecskip=\skip72
-\cftsubsubsecindent=\skip73
-\cftsubsubsecnumwidth=\skip74
-\cftbeforeparaskip=\skip75
-\cftparaindent=\skip76
-\cftparanumwidth=\skip77
-\cftbeforesubparaskip=\skip78
-\cftsubparaindent=\skip79
-\cftsubparanumwidth=\skip80
-\cftbeforeloftitleskip=\skip81
-\cftafterloftitleskip=\skip82
-\cftbeforefigskip=\skip83
-\cftfigindent=\skip84
-\cftfignumwidth=\skip85
-\c@lofdepth=\count95
-\c@lotdepth=\count96
-\cftbeforelottitleskip=\skip86
-\cftafterlottitleskip=\skip87
-\cftbeforetabskip=\skip88
-\cfttabindent=\skip89
-\cfttabnumwidth=\skip90
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
@@ -143,8 +58,111 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )))
-\Gin@req@height=\dimen114
-\Gin@req@width=\dimen115
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 143.
+)
+\sc@wm@hcenter=\skip43
+\sc@wm@vcenter=\skip44
+\sc@wm@fontsize=\skip45
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@floatcapt=\box27
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks16
+\flrow@foot=\box28
+\FB@wd=\dimen112
+\FBo@wd=\dimen113
+\FBc@wd=\dimen114
+\FBo@ht=\skip46
+\FBc@ht=\skip47
+\FBf@ht=\skip48
+\FBo@max=\skip49
+\FBc@max=\skip50
+\FBf@max=\skip51
+\c@FBl@b=\count89
+\floatbox@depth=\count90
+\c@FRobj=\count91
+\c@FRsobj=\count92
+\Xhsize=\skip52
+\sXhsize=\skip53
+\Zhsize=\skip54
+\sZhsize=\skip55
+\flrow@rowbox=\box29
+\FR@Zunitlength=\dimen115
+\c@FBcnt=\count93
+\FPOScnt=\count94
+\LTleft=\skip56
+\LTright=\skip57
+\LTleft=\skip58
+\LTright=\skip59
+\flrow@types=\toks17
+)
+(./preamble.tex
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip60
+\cftbeforetoctitleskip=\skip61
+\cftaftertoctitleskip=\skip62
+\cftbeforepartskip=\skip63
+\cftpartnumwidth=\skip64
+\cftpartindent=\skip65
+\cftbeforechapskip=\skip66
+\cftchapindent=\skip67
+\cftchapnumwidth=\skip68
+\cftbeforesecskip=\skip69
+\cftsecindent=\skip70
+\cftsecnumwidth=\skip71
+\cftbeforesubsecskip=\skip72
+\cftsubsecindent=\skip73
+\cftsubsecnumwidth=\skip74
+\cftbeforesubsubsecskip=\skip75
+\cftsubsubsecindent=\skip76
+\cftsubsubsecnumwidth=\skip77
+\cftbeforeparaskip=\skip78
+\cftparaindent=\skip79
+\cftparanumwidth=\skip80
+\cftbeforesubparaskip=\skip81
+\cftsubparaindent=\skip82
+\cftsubparanumwidth=\skip83
+\cftbeforeloftitleskip=\skip84
+\cftafterloftitleskip=\skip85
+\cftbeforefigskip=\skip86
+\cftfigindent=\skip87
+\cftfignumwidth=\skip88
+\c@lofdepth=\count95
+\c@lotdepth=\count96
+\cftbeforelottitleskip=\skip89
+\cftafterlottitleskip=\skip90
+\cftbeforetabskip=\skip91
+\cfttabindent=\skip92
+\cfttabnumwidth=\skip93
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -156,7 +174,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/10 v2.15b AMS math features
-\@mathmargin=\skip91
+\@mathmargin=\skip94
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -206,8 +224,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \totwidth@=\dimen123
 \lineht@=\dimen124
 \@envbody=\toks22
-\multlinegap=\skip92
-\multlinetaggap=\skip93
+\multlinegap=\skip95
+\multlinetaggap=\skip96
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
@@ -227,12 +245,12 @@ Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count110
 \calc@Adimen=\dimen125
 \calc@Bdimen=\dimen126
-\calc@Askip=\skip94
-\calc@Bskip=\skip95
+\calc@Askip=\skip97
+\calc@Bskip=\skip98
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count111
-\calc@Cskip=\skip96
+\calc@Cskip=\skip99
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
@@ -243,23 +261,7 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is not detected.
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: xetex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-))
+)))
 \AM@pagewidth=\dimen127
 \AM@pageheight=\dimen128
 
@@ -274,8 +276,8 @@ File: ppxetex.def 2015/09/18 v0.5d Pdfpages driver for XeTeX (AM)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box34
-\beforetitleunit=\skip97
-\aftertitleunit=\skip98
+\beforetitleunit=\skip100
+\aftertitleunit=\skip101
 \ttl@plus=\dimen129
 \ttl@minus=\dimen130
 \ttl@toksa=\toks25
@@ -415,7 +417,7 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip99
+\Hy@SectionHShift=\skip102
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
@@ -444,10 +446,10 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip100
-\LTright=\skip101
-\LTpre=\skip102
-\LTpost=\skip103
+\LTleft=\skip103
+\LTright=\skip104
+\LTpre=\skip105
+\LTpost=\skip106
 \LTchunksize=\count129
 \LTcapwidth=\dimen151
 \LT@head=\box36
@@ -468,8 +470,8 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen152
 \extrarowheight=\dimen153
 \NC@list=\toks27
-\extratabsurround=\skip104
-\backup@length=\skip105
+\extratabsurround=\skip107
+\backup@length=\skip108
 )
 \TX@col@width=\dimen154
 \TX@old@table=\dimen155
@@ -483,7 +485,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nomlabelwidth=\dimen159
 \nom@tempdim=\dimen160
-\nomitemsep=\skip106
+\nomitemsep=\skip109
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty
 Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
@@ -632,7 +634,23 @@ File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
@@ -1107,12 +1125,12 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \l_tmpb_dim=\dimen297
 \g_tmpa_dim=\dimen298
 \g_tmpb_dim=\dimen299
-\c_zero_skip=\skip107
-\c_max_skip=\skip108
-\l_tmpa_skip=\skip109
-\l_tmpb_skip=\skip110
-\g_tmpa_skip=\skip111
-\g_tmpb_skip=\skip112
+\c_zero_skip=\skip110
+\c_max_skip=\skip111
+\l_tmpa_skip=\skip112
+\l_tmpb_skip=\skip113
+\g_tmpa_skip=\skip114
+\g_tmpb_skip=\skip115
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
@@ -1472,16 +1490,16 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 ))
 \c@KVtest=\count282
-\sf@farskip=\skip113
+\sf@farskip=\skip116
 \sf@captopadj=\dimen331
-\sf@capskip=\skip114
-\sf@nearskip=\skip115
+\sf@capskip=\skip117
+\sf@nearskip=\skip118
 \c@subfigure=\count283
 \c@subfigure@save=\count284
 \c@subtable=\count285
 \c@subtable@save=\count286
-\sf@top=\skip116
-\sf@bottom=\skip117
+\sf@top=\skip119
+\sf@bottom=\skip120
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/block.tss
 File: block.tss 2016/03/15
@@ -1502,15 +1520,15 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@dimlist=\toks51
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip118
-\f@ncyO@elh=\skip119
-\f@ncyO@erh=\skip120
-\f@ncyO@olh=\skip121
-\f@ncyO@orh=\skip122
-\f@ncyO@elf=\skip123
-\f@ncyO@erf=\skip124
-\f@ncyO@olf=\skip125
-\f@ncyO@orf=\skip126
+\fancy@headwidth=\skip121
+\f@ncyO@elh=\skip122
+\f@ncyO@erh=\skip123
+\f@ncyO@olh=\skip124
+\f@ncyO@orh=\skip125
+\f@ncyO@elf=\skip126
+\f@ncyO@erf=\skip127
+\f@ncyO@olf=\skip128
+\f@ncyO@orf=\skip129
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
@@ -1541,8 +1559,8 @@ Package: l3keys2e 2016/03/28 v6468 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_unit_prefix_base_int=\count304
 \l__siunitx_unit_prefix_gram_int=\count305
 \l__siunitx_number_product_int=\count306
-\c__siunitx_one_fill_skip=\skip127
-\l__siunitx_table_unit_align_skip=\skip128
+\c__siunitx_one_fill_skip=\skip130
+\l__siunitx_table_unit_align_skip=\skip131
 \l__siunitx_table_exponent_dim=\dimen343
 \l__siunitx_table_integer_dim=\dimen344
 \l__siunitx_table_mantissa_dim=\dimen345
@@ -1556,8 +1574,8 @@ Package: l3keys2e 2016/03/28 v6468 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_post_box=\box73
 \l__siunitx_table_mantissa_box=\box74
 \l__siunitx_table_result_box=\box75
-\l__siunitx_table_number_align_skip=\skip129
-\l__siunitx_table_text_align_skip=\skip130
+\l__siunitx_table_number_align_skip=\skip132
+\l__siunitx_table_text_align_skip=\skip133
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1690,54 +1708,55 @@ Package crop Info: Local config file crop.cfg used on input line 605.
 
 (/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
 (./thesis.aux (./acknowledgments.aux) (./abstract.aux) (./sammanfattning.aux)
-(./chapter1.aux))
+(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
+(./chapter5.aux) (./chapter6.aux) (./chapter7.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/zgmmi/m/it on input line 39.
-LaTeX Font Info:    Try loading font information for OML+zgmmi on input line 39
+LaTeX Font Info:    Checking defaults for OML/zgmmi/m/it on input line 45.
+LaTeX Font Info:    Try loading font information for OML+zgmmi on input line 45
 .
 
 (/Users/danielakesson/Library/texmf/tex/latex/garamondx/omlzgmmi.fd
 File: omlzgmmi.fd 2012/11/18 Fontinst v1.933 font definitions for OML/zgmmi.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 39
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 45
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 39.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 45.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 39.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 45.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 45.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: floatrow package is loaded.
@@ -1745,8 +1764,8 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/floatrow/fr-subfig.sty
 Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
-\FBsc@max=\skip131
-\FBso@max=\skip132
+\FBsc@max=\skip134
+\FBso@max=\skip135
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/floatrow/fr-longtable.sty
 Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
@@ -1767,7 +1786,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
 )
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 45.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1777,9 +1796,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count310
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
@@ -1834,32 +1853,32 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2015/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
-Package crop Info: using `pdftex' graphics driver on input line 39.
+Package crop Info: using `pdftex' graphics driver on input line 45.
 \c__siunitx_mathsf_int=\count311
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 39.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 45.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 39.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 45.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 39.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 45.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 39.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 45.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 \c__siunitx_mathtt_int=\count312
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 39.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 45.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1949,19 +1968,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 LaTeX Font Info:    Font shape `EU1/AdobeGaramondPro(0)/m/sl' in size <10.95> n
 ot available
 (Font)              Font shape `EU1/AdobeGaramondPro(0)/m/it' tried instead on 
-input line 101.
+input line 107.
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 105--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--108
+Underfull \hbox (badness 10000) in paragraph at lines 105--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--114
 
  []
 
@@ -2012,43 +2031,59 @@ File: graphics/nervi.jpg Graphic file (type QTm)
  <use  "graphics/nervi.jpg" >
 [4]
 File: graphics/shenzen.jpg Graphic file (type QTm)
- <use  "graphics/shenzen.jpg" > [5] [6] [7] [8]
+ <use  "graphics/shenzen.jpg" > [5] [6]) [7] [8]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
 Chapter 2.
 File: graphics/car.jpg Graphic file (type QTm)
 <use  "graphics/car.jpg" > [9
 
+
+
 ]
-Overfull \hbox (2.3428pt too wide) in paragraph at lines 146--147
+Overfull \hbox (2.3428pt too wide) in paragraph at lines 30--31
 \EU1/AdobeGaramondPro(0)/m/n/10.95 proved the human-computer interaction of use
 r interfaces that adapted accordingly [[]15[]]. When
  []
 
-[10] [11] [12
+[10]) [11]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex [12
+
+
 
 ]
 Chapter 3.
 
-Overfull \hbox (2.4682pt too wide) in paragraph at lines 169--170
+Overfull \hbox (2.4682pt too wide) in paragraph at lines 13--14
 []\EU1/AdobeGaramondPro(0)/m/n/10.95 Dynamic equilibrium methods - these method
 s find the steady-state equilibrium through
  []
 
-File: graphics/stevin.png Graphic file (type QTm)
-<use  "graphics/stevin.png" > [13] [14]
+File: graphics/formfinding-ex.jpg Graphic file (type QTm)
+<use  "graphics/formfinding-ex.jpg" > [13] [14] [15]
 File: graphics/designspace.png Graphic file (type QTm)
- <use  "graphics/designspace.png" >
-[15]
+
+<use  "graphics/designspace.png" > [16]
 File: graphics/ga.png Graphic file (type QTm)
- <use  "graphics/ga.png" > [16] [17] [18] [19] [20
+ <use  "graphics/ga.png" > [17] [18])
+[19]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex [20
+
+
 
 ]
 Chapter 4.
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 9 replaced by U+FFFD.
 File: graphics/conventional-cycle.eps Graphic file (type eps)
 <graphics/conventional-cycle.eps>
 File: graphics/abaqus.png Graphic file (type QTm)
@@ -2065,26 +2100,31 @@ File: graphics/structurefit.png Graphic file (type QTm)
 
 <use  "graphics/structurefit.png" > [25]
 File: graphics/forcepad.png Graphic file (type QTm)
- <use  "graphics/forcepad.png" >
+ <use  "graphics/forcepad.png" >)
 [26]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
 Chapter 5.
 
-Overfull \hbox (2.72842pt too wide) in paragraph at lines 406--406
+Overfull \hbox (2.72842pt too wide) in paragraph at lines 1--1
 |\EU1/AdobeGaramondPro(0)/bx/n/24.88 5 Integrating structural feedback in con-
  []
 
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
 File: graphics/interaction.eps Graphic file (type eps)
 <graphics/interaction.eps> [27
+
+
 
 ]
 File: graphics/performance-feedback.png Graphic file (type QTm)
@@ -2092,33 +2132,43 @@ File: graphics/performance-feedback.png Graphic file (type QTm)
 [28] [29]
 File: graphics/ipad-ga.png Graphic file (type QTm)
  <use  "graphics/ipad-ga.png" > [30]
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 File: graphics/flowlines-exp.eps Graphic file (type eps)
  <graphics/flowlines-exp.eps>
 
-LaTeX Warning: Float too large for page by 50.70908pt on input line 475.
+LaTeX Warning: Float too large for page by 50.70908pt on input line 70.
 
-[31] [32]
+) [31] [32]
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
 Chapter 6.
 [33
 
-] [34]
+
+
+]) [34]
+\openout2 = `chapter7.aux'.
+
+ (./chapter7.tex
 Chapter 7.
-Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 4 replaced by U+FFFD.
 File: graphics/softwareReview.eps Graphic file (type eps)
 <graphics/softwareReview.eps> [35
+
+
 
 ]) [36] (./thesis.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 17--19
@@ -2215,7 +2265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 271--274
 [40]) [41] [42
 
 ] [43] [44]
-Overfull \hbox (26.26378pt too wide) in paragraph at lines 144--144
+Overfull \hbox (26.26378pt too wide) in paragraph at lines 153--153
 [][] 
  []
 
@@ -2293,7 +2343,7 @@ File: PaperA.pdf Graphic file (type QTm)
 File: PaperA.pdf Graphic file (type QTm)
 
 <use  "PaperA.pdf"  page8> [54]
-Overfull \hbox (26.26378pt too wide) in paragraph at lines 164--164
+Overfull \hbox (26.26378pt too wide) in paragraph at lines 173--173
 [][] 
  []
 
@@ -2416,25 +2466,27 @@ File: PaperB.pdf Graphic file (type QTm)
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page14> [70]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (./thesis.aux (./acknowledgments.aux)
-(./abstract.aux) (./sammanfattning.aux) (./chapter1.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 172.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 172.
+(./abstract.aux) (./sammanfattning.aux) (./chapter1.aux) (./chapter2.aux)
+(./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux)
+(./chapter7.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 181.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 49596 strings out of 493632
- 1080770 string characters out of 6144722
- 1171367 words of memory out of 5000000
- 52177 multiletter control sequences out of 15000+600000
- 46736 words of font info for 149 fonts, out of 8000000 for 9000
+ 49712 strings out of 493632
+ 1082957 string characters out of 6144722
+ 1177195 words of memory out of 5000000
+ 52237 multiletter control sequences out of 15000+600000
+ 46744 words of font info for 150 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 64i,18n,81p,10417b,919s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,18n,81p,10417b,922s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on thesis.pdf (82 pages).

@@ -5,6 +5,12 @@ A level-1 auxiliary file: acknowledgments.aux
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: sammanfattning.aux
 A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
+A level-1 auxiliary file: chapter7.aux
 The style file: mystyle.bst
 Database file #1: thesis-library2.bib
 Warning--can't use both volume and number fields in schlaich2006challenges
@@ -15,7 +21,7 @@ Warning--missing institution in Olsson2003
 Warning--missing publisher in Culmann1866
 You've used 67 entries,
             2384 wiz_defined-function locations,
-            986 strings with 16236 characters,
+            992 strings with 16308 characters,
 and the built_in function-call counts, 21164 in all, are:
 = -- 1448
 > -- 394

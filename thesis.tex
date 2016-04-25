@@ -1,5 +1,11 @@
 \documentclass[twoside,openright,11pt]{book}
 
+
+%Draft lines
+\usepackage[firstpage]{draftwatermark}
+\SetWatermarkText{DRAFT}
+
+
 \let\tmp\newinsert
 \let\newinsert\newbox
 \usepackage{floatrow}
@@ -115,9 +121,12 @@ Submitted \\ \\
 \pagestyle{fancy}
 % If you would like to use an initial (anfang på svenska) at the start of each chapter, there is an example of how to do this available in chapter1initial.
 \include{chapter1} 
-%\include{chapter1initial} 
-%\include{chapter2}
-%\include{chapter3}
+\include{chapter2}
+\include{chapter3}
+\include{chapter4}
+\include{chapter5}
+\include{chapter6}
+\include{chapter7}
 
 \renewcommand{\bibname}{References}
 \backmatter
