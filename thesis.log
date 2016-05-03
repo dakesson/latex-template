@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  2 MAY 2016 13:16
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  3 MAY 2016 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1919,22 +1919,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 \openout2 = `abstract.aux'.
 
  (./abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--16
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
@@ -1996,12 +1991,6 @@ LaTeX Font Warning: Font shape `EU1/FrutigerLTStd-Bold(0)/bx/n' undefined
 (Font)              using `EU1/FrutigerLTStd-Bold(0)/m/n' instead on input line
  3.
 
-
-Overfull \hbox (0.53975pt too wide) in paragraph at lines 6--7
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 The structural design process is never a s
-traightforward procedure. Rather, solutions are reached
- []
-
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
@@ -2015,13 +2004,13 @@ File: graphics/freedom-vs-knowledge.eps Graphic file (type eps)
 
 
 ]
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 File: graphics/impact-tools.eps Graphic file (type eps)
  <graphics/impact-tools.eps> [2]
 [3]
@@ -2031,7 +2020,7 @@ File: graphics/nervi.jpg Graphic file (type QTm)
  <use  "graphics/nervi.jpg" >
 [4]
 File: graphics/shenzen.jpg Graphic file (type QTm)
- <use  "graphics/shenzen.jpg" > [5] [6]) [7] [8]
+ <use  "graphics/shenzen.jpg" > [5] [6] [7]) [8]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -2042,9 +2031,9 @@ File: graphics/car.jpg Graphic file (type QTm)
 
 
 ]
-Overfull \hbox (2.3428pt too wide) in paragraph at lines 30--31
-\EU1/AdobeGaramondPro(0)/m/n/10.95 proved the human-computer interaction of use
-r interfaces that adapted accordingly [[]15[]]. When
+Overfull \hbox (4.4501pt too wide) in paragraph at lines 30--31
+\EU1/AdobeGaramondPro(0)/m/n/10.95 The introduction of input devices such as th
+e mouse and joystick significantly improved human–
  []
 
 [10]) [11]
@@ -2057,9 +2046,9 @@ r interfaces that adapted accordingly [[]15[]]. When
 ]
 Chapter 3.
 
-Overfull \hbox (2.4682pt too wide) in paragraph at lines 13--14
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Dynamic equilibrium methods - these method
-s find the steady-state equilibrium through
+Overfull \hbox (4.05838pt too wide) in paragraph at lines 13--14
+[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Dynamic equilibrium methods. These methods
+ find the steady-state equilibrium through
  []
 
 File: graphics/formfinding-ex.jpg Graphic file (type QTm)
@@ -2129,9 +2118,9 @@ File: graphics/interaction.eps Graphic file (type eps)
 ]
 File: graphics/performance-feedback.png Graphic file (type QTm)
  <use  "graphics/performance-feedback.png" >
-[28] [29]
+[28]
 File: graphics/ipad-ga.png Graphic file (type QTm)
- <use  "graphics/ipad-ga.png" > [30]
+ <use  "graphics/ipad-ga.png" > [29] [30]
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
@@ -2483,7 +2472,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
 Here is how much of TeX's memory you used:
  49712 strings out of 493632
  1082957 string characters out of 6144722
- 1177195 words of memory out of 5000000
+ 1177191 words of memory out of 5000000
  52237 multiletter control sequences out of 15000+600000
  46744 words of font info for 150 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
