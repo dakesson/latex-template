@@ -31,22 +31,22 @@
 \contentsline {section}{\numberline {4.2}Geometry-based tools for architects}{21}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}History}{21}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Present day}{23}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Existing conceptual design tools}{23}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Real-time analysis tools}{23}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.3}Existing conceptual design tools}{24}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Real-time analysis tools}{24}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Graphic statics tools}{25}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Interactive optimization design tools}{25}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.3}Interactive optimization design tools}{26}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Topological optimization design tools}{26}{subsection.4.3.4}
-\contentsline {chapter}{\numberline {5}Integrating structural feedback in conceptual design tools}{27}{chapter.5}
-\contentsline {section}{\numberline {5.1}Human--computer interaction}{27}{section.5.1}
-\contentsline {section}{\numberline {5.2}Structural feedback}{28}{section.5.2}
-\contentsline {section}{\numberline {5.3}Structural optimization}{29}{section.5.3}
-\contentsline {section}{\numberline {5.4}Visual representations}{30}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Example - Stress lines}{31}{subsection.5.4.1}
-\contentsline {chapter}{\numberline {6}Summary of appended papers}{33}{chapter.6}
-\contentsline {section}{\numberline {6.1}Paper A}{33}{section.6.1}
-\contentsline {section}{\numberline {6.2}Paper B}{34}{section.6.2}
-\contentsline {chapter}{\numberline {7}Results \& discussion}{35}{chapter.7}
-\contentsline {section}{\numberline {7.1}Summary of intellectual contributions}{36}{section.7.1}
-\contentsline {section}{\numberline {7.2}Future work}{36}{section.7.2}
-\contentsline {chapter}{References}{37}{section*.23}
-\contentsline {part}{II\hspace {1em}Appended publications}{43}{part.2}
+\contentsline {chapter}{\numberline {5}Integrating structural feedback in conceptual design tools}{29}{chapter.5}
+\contentsline {section}{\numberline {5.1}Human--computer interaction}{29}{section.5.1}
+\contentsline {section}{\numberline {5.2}Structural feedback}{30}{section.5.2}
+\contentsline {section}{\numberline {5.3}Structural optimization}{31}{section.5.3}
+\contentsline {section}{\numberline {5.4}Visual representations}{32}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Example - Stress lines}{33}{subsection.5.4.1}
+\contentsline {chapter}{\numberline {6}Summary of appended papers}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}Paper A}{35}{section.6.1}
+\contentsline {section}{\numberline {6.2}Paper B}{36}{section.6.2}
+\contentsline {chapter}{\numberline {7}Results \& discussion}{37}{chapter.7}
+\contentsline {section}{\numberline {7.1}Summary of intellectual contributions}{38}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future work}{38}{section.7.2}
+\contentsline {chapter}{References}{39}{section*.24}
+\contentsline {part}{II\hspace {1em}Appended publications}{45}{part.2}

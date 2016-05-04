@@ -29,12 +29,17 @@ The first computer-aided design (CAD) tool, Sketchpad \cite{Aish2005}, was devel
 CAD tools, in the form of 2D drafting tools, first became widely affordable and accessible in the 1980s \cite{Aish2005}. Unfortunately, the subsequent 2D drafting software failed to capture Sutherland’s original intention of using the computer as a creative design tool, as it did not include a constraint model. 
 
 \subsection{Present day}
-Many different geometric modeling tools are currently available to designers. For instance, parametric modelers have successfully captured some of Sutherland’s ideas in terms of constraint models. 
 
-The Rhinoceros 3D software \cite{Rhino}, which is a NURBS  modeler, can be combined with the Grasshopper plug-in \cite{Grasshopper} to enable a visual programming environment. The software developer Autodesk has also launched a parametric modeling tool named Dynamo \cite{Dynamo} that has similar features.
+\begin{figure}
+  \includegraphics[width=380pt]{graphics/parametric-model.png}
+  \caption{Parametric model, in Rhinoceros 3D with Grasshopper, of the thin-shell concrete dome "Palazzetto dello Sport" by Annibale Vitellozzi and Pier Luigi Nervi}
+  \label{fig:parametric-model}
+\end{figure}
+
+Many different geometric modeling tools are currently available to designers. For instance, parametric modelers have successfully captured some of Sutherland’s ideas in terms of constraint models. The Rhinoceros 3D software \cite{Rhino}, which is a NURBS  modeler, can be combined with the Grasshopper plug-in \cite{Grasshopper} to enable a visual programming environment, see Figure \ref{fig:parametric-model}. The software developer Autodesk has also launched a parametric modeling tool named Dynamo \cite{Dynamo} that has similar features.
 
 In Grasshopper, the designer can connect a slider to a parameter, e.g., the width or curvature of a model, and the geometry then updates in real time as the sliders are manipulated. This enables complex shapes and forms to be generated and manipulated, allowing the designer to explore the parametric design space. 
-
+ \\ \\ \\
 Grasshopper supports many plug-ins that can be combined with one another. For example, Karamba \cite{Karamba} can be used to provide structural performance feedback within the parametric modeler. 
 
 \section{Existing conceptual design tools}
@@ -46,7 +51,7 @@ A number of different conceptual design tools exist. In the following, they have
 \subsection{Real-time analysis tools}
 
 \begin{figure}
-  \includegraphics[width=350pt]{graphics/pointsketch.png}
+  \includegraphics[width=320pt]{graphics/pointsketch.png}
   \caption{The software tool PointSketch}
   \label{fig:pointsketch}
 \end{figure}
@@ -83,7 +88,7 @@ A similar tool, developed as a web application, is named StructureFIT \cite{Muel
 Two other applications that were developed in academia for design exploration through the use of topological optimization are ForcePad \cite{Lindemann2004} (see Figure \ref{fig:forcepad}) and TopOpt \cite{Aage2013}. In these two applications, a 2D geometry is modeled using conventional drawing tools, a metaphor for ``drawing with stiffness.’’ Topological optimization is then performed on the geometry, and the resulting optimized shape is visualized. These applications also have an interactive mode whereby forces can be manipulated and the resulting stresses updated in real time.
 
 \begin{figure}
-  \includegraphics[width=350pt]{graphics/forcepad.png}
+  \includegraphics[width=380pt]{graphics/forcepad.png}
   \caption{Software tool ForcePad}
   \label{fig:forcepad}
 \end{figure}
