@@ -1,8 +1,6 @@
 \chapter{Integrating structural feedback in conceptual design tools}
 \label{ch:Integrating structural feedback}
-In the conventional workflow, the architect uses geometric modeling tools and the engineer deploys structural analysis tools in sequential steps. Parametric modeling tools offer an improvement to this workflow, as they include structural analysis plug-ins. This allows the user to obtain structural feedback earlier in the design phase, but still as a sequential step to the geometric modeling.
-
-The present work aims to improve the workflow by integrating structural feedback with geometric modeling. However, this creates new demands on conceptual design tools. 
+In the conventional workflow, the architect uses geometric modeling tools and the engineer deploys structural analysis tools in sequential steps. Parametric modeling tools offer an improvement to this workflow, as they include structural analysis plug-ins. This allows the user to obtain structural feedback earlier in the design phase, but still as a sequential step to the geometric modeling. The present work aims to improve the workflow by integrating structural feedback with geometric modeling. However, this creates new demands on conceptual design tools. 
 
 \section{Human--computer interaction}
 Conceptual design tools should inspire and encourage users to explore design alternatives. This places demands on the human--computer interaction of such tools. The tools need to be interactive and allow users to quickly create new models, or to make changes to existing models. 
@@ -17,7 +15,7 @@ Direct manipulation is a human--computer interaction style that enables users to
 
 Achieving a very direct manipulation style in 3D has been made possible by the emergence of new 3D input controllers. This creates an opportunity to create conceptual design tools with a very direct manipulation style for 3D. In Paper B , this opportunity has been explored by developing a conceptual design tool that employs a 3D input controller named the Leap Motion Controller. 
 
-In Paper A, a very direct manipulation cycle is proposed to further improve the interactivity of the user interface in conceptual design applications. As the user is modeling, computations are continuously performed, and the result is automatically visualized once the modeled structure is stable. This removes the need for a specific ``compute step,’’ which further integrates structural feedback into the geometric modeling. This direct manipulation cycle is also employed in the application developed in Paper B.
+In Paper A, a very direct manipulation cycle is proposed to further improve the interactivity of the user interface in conceptual design applications. As the user is modeling, computations are continuously performed, and the result is automatically visualized once the modeled structure is stable. This removes the need for a specific ``compute step,’’ and further integrates structural feedback into the geometric modeling. This direct manipulation cycle is also employed in the application developed in Paper B.
 
 \section{Structural feedback}
 To integrate structural feedback into conceptual design applications, structural analysis must be integrated into the geometrical modeling phase. The feedback should be easy to understand and provide valuable information about the structural behavior and performance of the design.
@@ -48,23 +46,27 @@ Form-finding can be used to identify the static equilibrium for a structure unde
 
 
 \section{Visual representations}
-After structural analysis computations have been performed, the result can be visualized. For conceptual structural design tools, visualization should ideally allow users to understand the results quickly. 
-
-One such example is graphic statics, which visualizes forces as line lengths in a force diagram. Compared to using colors to represent the size of the forces, this is beneficial to users’ understanding as it removes a layer of abstraction. Users can immediately understand the magnitude of the forces without the need for any form of colorbar.
+After structural analysis computations have been performed, the result can be visualized. For conceptual structural design tools, visualization should ideally allow users to understand the results quickly. One such example is graphic statics, which visualizes forces as line lengths in a force diagram. Compared to using colors to represent the magnitude of the forces, this is beneficial to users’ understanding as it removes a layer of abstraction. Users can immediately understand the magnitude of the forces without the need for any form of colorbar.
 
 Dynamic behavior can be visualized using animations, as in the application developed in Paper A. If a force is applied to a non-stable model, the corresponding mechanism is visualized using an animation. This allows users to quickly understand the model’s non-stable behavior and how it needs to be modified to make it stable. 
 
-\subsection{Example - Loadpaths}
-The structural behavior of 1D elements, such as bar and beam elements, is easier to understand than that of higher-dimensional elements. Higher-dimensional elements have a more complex structural behavior. For 2D structural elements, the internal stresses can be computed and used to compute lines representing how the external load flows through the structure towards the boundaries. In the Z-direction, this can be described as \cite{Fonseca1997}:
+\subsection{Example - Stress lines}
+The structural behavior of 1D elements, such as bar and beam elements, is easier to understand than that of higher-dimensional elements. Higher-dimensional elements have a more complex structural behavior. For 2D structural elements, the internal stresses can be computed and used to compute lines representing how the external load flows through the structure towards the boundaries, see Figure \ref{fig:stresslines}. In the Z-direction, this can be described as \cite{Fonseca1997}:
 
 \begin{equation*}
 \frac{\delta \tau_{xz}}{\delta x} + \frac{\delta \tau_{yz}}{\delta y} + \frac{\delta \sigma_{z}}{\delta z}= 0
 \end{equation*}
 
-The author  has explored how loadpaths can be extended into 3D using volumetric elements. The idea for the algorithm and the results are shown in Figure \ref{fig:flowlines-exp}. Volumetric elements are colored according to the von Mises stress, and the green dots denote boundary conditions. However, this method has some drawbacks: it is not clear how to interpret the lines, the results are sensitive to the mesh size, and the computational load is significant. Additionally, only the internal stresses acting in the Z-direction are considered here.
+The author  has explored how stress lines can be extended into 3D using volumetric elements.  The idea for the algorithm and the results are shown in Figure \ref{fig:flowlines-exp}. Volumetric elements are colored according to the von Mises stress, and the green dots denote boundary conditions. However, this method has some drawbacks: it is not clear how to interpret the lines, the results are sensitive to the mesh size, and the computational load is significant. Additionally, only the internal stresses acting in the Z-direction are considered here.
+
+\begin{figure}
+  \includegraphics[width=230pt]{graphics/stresslines.eps}
+  \caption{Stress lines for a 2D problem}
+  \label{fig:stresslines}
+\end{figure}
  
 \begin{figure}
-  \includegraphics[width=330pt]{graphics/flowlines-exp.eps}
-  \caption{Computing loadpaths for 3D}
+  \includegraphics[width=380pt]{graphics/flowlines-exp.eps}
+  \caption{Computing stress lines for 3D}
   \label{fig:flowlines-exp}
 \end{figure}

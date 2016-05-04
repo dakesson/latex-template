@@ -3,7 +3,7 @@
 In this section, a number of computational methods that can be used for conceptual structural design are introduced. 
 
 \section{Form-Finding}
-Physical models or numerical simulations can be used for form-finding, which aims to find the form of a structure under load where some static equilibrium is satisfied. The static equilibrium corresponds to a structure that can support the applied load using only compression or tension, and is thus a very efficient structure. For physical models, a hanging chain or cloth can be used the find the static equilibrium.
+Physical models or numerical simulations can be used for form-finding, which aims to find the form of a structure under load where some static equilibrium is satisfied. The static equilibrium corresponds to a structure that can support the applied load using only compression or tension, and is thus a very efficient structure. For physical models, a hanging chain or cloth can be used to find the static equilibrium.
 
 The different form-finding methods can be divided into three major categories \cite{Veenendaal2012a}: 
 
@@ -15,7 +15,7 @@ The different form-finding methods can be divided into three major categories \c
 
 \begin{figure}
   \includegraphics[width=380pt]{graphics/formfinding-ex.jpg}
-  \caption{Example of form-found structures. Left: Concrete dome by Heinz Isler, © Chriusha, Wikimedia Commons; Right: Multihalle in Mannheim by Frei Otto }
+  \caption{Example of form-found structures. Left: Concrete dome by Heinz Isler, © Chriusha, Wikimedia Commons; Right: Multihalle in Mannheim by Frei Otto © Hubert Berberich, Wikimedia Commons}
   \label{fig:Stevin}
 \end{figure}
 
@@ -23,10 +23,10 @@ The different form-finding methods can be divided into three major categories \c
 \label{sec:dr}
 Dynamic relaxation involves solving a set of nonlinear equations. The method computes the movement of a structure over time to find the static equilibrium between the internal and external forces \cite{Day1965, barnes1988form}. 
 
-In each time step  $\Delta t$, all elements are computed from the nodal displacements $u$. A residual $R$ can be computed as
+In each time step  $\Delta t$, the internal forces ,$f_{int}$, for all elements are computed from the nodal displacements $u$. A residual $R$ can be computed as
 
 \begin{equation*}
-  R = f_{ext} - F_{int} 
+  R = f_{ext} - f_{int} 
 \end{equation*}
 
 where $f_{ext}$ represents the external forces acting on the structure. Using Newton’s second law, the acceleration (time derivative of the velocity) can be computed for node $i$ in the $x$-direction at time $t$ as
@@ -35,7 +35,7 @@ where $f_{ext}$ represents the external forces acting on the structure. Using Ne
   R^t_{ix} = M_i  \cdot \dot{v}^t_{ix}
 \end{equation*}
 
-where $M$  is a lumped, fictitious mass at node $i$. To enforce suitable boundary conditions, the residual is set to zero for the corresponding degrees of freedom. With the time step known, the velocity of node $i$ in the $x$-direction can be computed using a finite difference method:
+where $M_i$  is a lumped, fictitious mass at node $i$. To enforce suitable boundary conditions, the residual is set to zero for the corresponding degrees of freedom. With the time step known, the velocity of node $i$ in the $x$-direction can be computed using a finite difference method:
 
 \begin{equation*}
   v^{t+\Delta t}_{ix} = v^{t-\Delta t}_{ix} + \frac{\Delta t}{M_i} \cdot R^t_{ix}
@@ -76,7 +76,7 @@ SO=\begin{cases}
     \end{equation} 
 
 
- Various optimization methods have been developed, and the best method for any one problem will depend on the associated solution space. A problem can also have multiple objective functions, i.e., multi-objective optimization, which can be formulated as follows:
+Various optimization methods have been developed, and the best method for any one problem will depend on the associated solution space. A problem can also have multiple objective functions, i.e., multi-objective optimization, which can be formulated as follows:
 
 \begin{equation*}
 minimize(f_1(x,y),f_2(x,y), \dotsc, f_n(x,y))
@@ -124,7 +124,7 @@ Genetic algorithms have the benefit that multiple strong solutions can be presen
 To optimize the material layout for a given a set of boundary conditions and external forces, topological optimization can be used. This method can be implemented through the use of finite element analysis combined with optimization methods \cite{bendsoe2009topology}. However, the resulting optimal material layout can be highly complex, making it infeasible to actually build.
 
 \section{Eigenvalue analysis}
-Eigenvalue analysis can be used to find the dynamic or static modal shapes of a structural model. From the stiffness matrix $K$ of a structure, a set of scalar stiffness values can be determined \cite{Olsson2003}. Assume that the set of displacements $a$ is proportional to a corresponding set of forces $f$, i.e.,
+Eigenvalue analysis can be used to find the dynamic or static modal shapes of a structural model. From the stiffness matrix $\mathbf{K}$ of a structure, a set of scalar stiffness values can be determined \cite{Olsson2003}. Assume that the set of displacements $\mathbf{a}$ is proportional to a corresponding set of forces $\mathbf{f}$, i.e.,
 
 \begin{equation*}
 \mathbf{f} = \lambda \mathbf{a}

@@ -24,7 +24,7 @@ The development of finite element analysis (FEA) has resulted in many different,
   \caption{Sketchpad - the first CAD tool}
   \label{fig:sketchpad}
 \end{figure}
-The first computer-aided design (CAD) tool, Sketchpad \cite{Aish2005}, was developed by Ivan Sutherland at MIT in 1963. The revolutionary feature of Sketchpad was a real-time representation of the geometry on the display, which could be modified with the use of a new input device, a light pen. The light pen enabled a complete interaction loop between the computer and the designer. The software supported complex relationships between graphical elements; for example, a line could be defined by its relationship to other graphical objects, i.e., perpendicular to, parallel to, same length, etc. Sutherland envisioned that designers would first create a rough sketch of the design, and then, as the design matured, apply constraints to the graphical objects to obtain a more detailed and precise design. 
+The first computer-aided design (CAD) tool, Sketchpad \cite{Aish2005}, was developed by Ivan Sutherland at MIT in 1963. The revolutionary feature of Sketchpad was a real-time representation of the geometry on the display. The geometry could be modified with the use of a new input device, a light pen. The light pen enabled a complete interaction loop between the computer and the designer. The software supported complex relationships between graphical elements; for example, a line could be defined by its relationship to other graphical objects, i.e., perpendicular to, parallel to, same length, etc. Sutherland envisioned that designers would first create a rough sketch of the design, and then, as the design matured, apply constraints to the graphical objects to obtain a more detailed and precise design. 
 
 CAD tools, in the form of 2D drafting tools, first became widely affordable and accessible in the 1980s \cite{Aish2005}. Unfortunately, the subsequent 2D drafting software failed to capture Sutherland’s original intention of using the computer as a creative design tool, as it did not include a constraint model. 
 
@@ -32,7 +32,6 @@ CAD tools, in the form of 2D drafting tools, first became widely affordable and 
 Many different geometric modeling tools are currently available to designers. For instance, parametric modelers have successfully captured some of Sutherland’s ideas in terms of constraint models. 
 
 The Rhinoceros 3D software \cite{Rhino}, which is a NURBS  modeler, can be combined with the Grasshopper plug-in \cite{Grasshopper} to enable a visual programming environment. The software developer Autodesk has also launched a parametric modeling tool named Dynamo \cite{Dynamo} that has similar features.
-
 
 In Grasshopper, the designer can connect a slider to a parameter, e.g., the width or curvature of a model, and the geometry then updates in real time as the sliders are manipulated. This enables complex shapes and forms to be generated and manipulated, allowing the designer to explore the parametric design space. 
 
@@ -68,7 +67,6 @@ Recently, an interactive physics engine was developed to create a game-inspired 
 
 Multiple graphic statics computational design tools have been developed; they make use of the simplicity of graphic statics to allow the computations to run in real time. The first such application was ActiveStatics \cite{ActiveStatics}, a web-based tool that allows users to explore graphic statics. The focus of this tool is on teaching how graphic statics works, and extensive examples are available. A very similar version, named Equilibrium \cite{Block}, was later developed (see Figure \ref{fig:equilibrium}). A similar design tool that makes use of a particle-spring system for computations is CADenary \cite{CADenary}.
 
-
 \subsection{Interactive optimization design tools}
 
 \begin{figure}
@@ -77,7 +75,7 @@ Multiple graphic statics computational design tools have been developed; they ma
   \label{fig:structurefit}
 \end{figure}
 
-Genetic algorithms can easily be used for interactive optimization in which users can intervene in the selection process and direct the population in the desired direction. Such applications have been developed for conceptual structural design to allow the generation and analysis of structures such as bridges and trusses. One such tool is von Buelow’s interactive evolutionary design tool \cite{VonBuelow2008}, which supports both 2D and 3D structures.
+Genetic algorithms can easily be used for interactive optimization in which users can intervene in the selection process and direct the population in the desired direction. Such applications have been developed for conceptual structural design to allow the generation and analysis of simple structures. One such tool is von Buelow’s interactive evolutionary design tool \cite{VonBuelow2008}, which supports both 2D and 3D structures.
 
 A similar tool, developed as a web application, is named StructureFIT \cite{Mueller2013, Mueller2015} (see Figure \ref{fig:structurefit}). This software tool has a direct manipulation mode whereby users can further explore the generated structures by moving nodes and observing an updated relative performance index in real time. Another version of this tool, named Stormcloud \cite{Danhaive2015}, has been developed for Grasshopper \cite{Grasshopper}.
 

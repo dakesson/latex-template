@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  3 MAY 2016 16:28
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  4 MAY 2016 06:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2100,16 +2100,16 @@ Overfull \hbox (2.72842pt too wide) in paragraph at lines 1--1
 |\EU1/AdobeGaramondPro(0)/bx/n/24.88 5 Integrating structural feedback in con-
  []
 
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 File: graphics/interaction.eps Graphic file (type eps)
 <graphics/interaction.eps> [27
 
@@ -2121,18 +2121,28 @@ File: graphics/performance-feedback.png Graphic file (type QTm)
 [28]
 File: graphics/ipad-ga.png Graphic file (type QTm)
  <use  "graphics/ipad-ga.png" > [29] [30]
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+File: graphics/stresslines.eps Graphic file (type eps)
+ <graphics/stresslines.eps>
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
 File: graphics/flowlines-exp.eps Graphic file (type eps)
- <graphics/flowlines-exp.eps>
 
-LaTeX Warning: Float too large for page by 50.70908pt on input line 70.
+<graphics/flowlines-exp.eps>
+
+LaTeX Warning: Float too large for page by 49.57747pt on input line 72.
 
 ) [31] [32]
 \openout2 = `chapter6.aux'.
@@ -2467,13 +2477,16 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 181.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 49712 strings out of 493632
- 1082957 string characters out of 6144722
- 1177191 words of memory out of 5000000
- 52237 multiletter control sequences out of 15000+600000
+ 49715 strings out of 493632
+ 1083013 string characters out of 6144722
+ 1177298 words of memory out of 5000000
+ 52239 multiletter control sequences out of 15000+600000
  46744 words of font info for 150 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  64i,18n,81p,10417b,922s stack positions out of 5000i,500n,10000p,200000b,80000s
