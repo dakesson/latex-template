@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  12 MAY 2016 10:02
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.4.21)  12 MAY 2016 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1992,6 +1992,20 @@ LaTeX Font Warning: Font shape `EU1/FrutigerLTStd-Bold(0)/bx/n' undefined
 (Font)              using `EU1/FrutigerLTStd-Bold(0)/m/n' instead on input line
  3.
 
+
+LaTeX Warning: Citation `Mueller2014' on page 1 undefined on input line 4.
+
+
+LaTeX Warning: Citation `schlaich2006challenges' on page 1 undefined on input l
+ine 6.
+
+
+LaTeX Warning: Citation `schlaich2006challenges' on page 1 undefined on input l
+ine 15.
+
+
+LaTeX Warning: Citation `Hsu2000' on page 1 undefined on input line 15.
+
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
@@ -2000,11 +2014,30 @@ Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 18 replaced by U+FFFD.
 File: graphics/freedom-vs-knowledge.eps Graphic file (type eps)
-<graphics/freedom-vs-knowledge.eps> [1
+<graphics/freedom-vs-knowledge.eps>
+
+LaTeX Warning: Citation `Mueller2014' on page 1 undefined on input line 19.
+
+
+LaTeX Warning: Citation `Mueller2014' on page 1 undefined on input line 19.
+
+[1
 
 
 
 ]
+
+LaTeX Warning: Citation `sakamoto2008control' on page 2 undefined on input line
+ 24.
+
+
+LaTeX Warning: Citation `mueller2013integrated' on page 2 undefined on input li
+ne 24.
+
+
+LaTeX Warning: Citation `schlaich2006challenges' on page 2 undefined on input l
+ine 25.
+
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
@@ -2013,31 +2046,145 @@ Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 28 replaced by U+FFFD.
 File: graphics/impact-tools.eps Graphic file (type eps)
- <graphics/impact-tools.eps> [2]
+<graphics/impact-tools.eps>
+
+LaTeX Warning: Citation `Hsu2000' on page 2 undefined on input line 29.
+
+
+LaTeX Warning: Citation `Hsu2000' on page 2 undefined on input line 29.
+
+
+LaTeX Warning: Citation `Hsu2000' on page 2 undefined on input line 34.
+
+[2]
+
+LaTeX Warning: Citation `Bathe2006' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Froderberg2014' on page 3 undefined on input line 40.
+
 [3]
 File: graphics/hiarchical-modelling.png Graphic file (type QTm)
  <use  "graphics/hiarchical-modelling.png" >
+
+LaTeX Warning: Citation `Haggman2015' on page 4 undefined on input line 50.
+
+
+LaTeX Warning: Citation `Haggman2015' on page 4 undefined on input line 50.
+
+
+LaTeX Warning: Citation `Mueller2014' on page 4 undefined on input line 52.
+
 File: graphics/nervi.jpg Graphic file (type QTm)
- <use  "graphics/nervi.jpg" >
+<use  "graphics/nervi.jpg" >
+
+LaTeX Warning: Citation `Addis2007' on page 4 undefined on input line 63.
+
+
+LaTeX Warning: Citation `Todisco2015' on page 4 undefined on input line 63.
+
+
+LaTeX Warning: Citation `MadeByRobots' on page 4 undefined on input line 63.
+
 [4]
+
+LaTeX Warning: Citation `Mueller2014' on page 5 undefined on input line 65.
+
+
+LaTeX Warning: Citation `Stromberg2012a' on page 5 undefined on input line 67.
+
 File: graphics/shenzen.jpg Graphic file (type QTm)
- <use  "graphics/shenzen.jpg" > [5] [6] [7]) [8]
+<use  "graphics/shenzen.jpg" > [5] [6] [7]) [8]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 Chapter 2.
+
+LaTeX Warning: Citation `Shneiderman1982' on page 9 undefined on input line 8.
+
+
+LaTeX Warning: Citation `Shneiderman:1997:DMC:238218.238281' on page 9 undefine
+d on input line 8.
+
+
+LaTeX Warning: Citation `Sears1990' on page 9 undefined on input line 8.
+
 File: graphics/car.jpg Graphic file (type QTm)
-<use  "graphics/car.jpg" > [9
+<use  "graphics/car.jpg" >
+
+LaTeX Warning: Citation `impact' on page 9 undefined on input line 15.
+
+
+LaTeX Warning: Citation `impact' on page 9 undefined on input line 15.
+
+
+LaTeX Warning: Citation `tufte1997visual' on page 9 undefined on input line 21.
+
+
+
+LaTeX Warning: Citation `tufte1990envisioning' on page 9 undefined on input lin
+e 21.
+
+
+LaTeX Warning: Citation `tufte2001the' on page 9 undefined on input line 21.
+
+
+LaTeX Warning: Citation `tufte2001the' on page 9 undefined on input line 21.
+
+[9
 
 
 
 ]
+
+LaTeX Warning: Citation `Sears1990' on page 10 undefined on input line 30.
+
+
+LaTeX Warning: Citation `Sears1990' on page 10 undefined on input line 30.
+
+
 Overfull \hbox (4.4501pt too wide) in paragraph at lines 30--31
 \EU1/AdobeGaramondPro(0)/m/n/10.95 The introduction of input devices such as th
 e mouse and joystick significantly improved human–
  []
 
-[10]) [11]
+
+LaTeX Warning: Citation `Nielson:1987:DMT:319120.319134' on page 10 undefined o
+n input line 32.
+
+[10]
+
+LaTeX Warning: Citation `LeapMotion2013' on page 11 undefined on input line 34.
+
+
+
+LaTeX Warning: Citation `Kosmadoudi2013' on page 11 undefined on input line 36.
+
+
+
+LaTeX Warning: Citation `Nintendo' on page 11 undefined on input line 36.
+
+
+LaTeX Warning: Citation `Microsoft' on page 11 undefined on input line 36.
+
+
+LaTeX Warning: Citation `Playstationa' on page 11 undefined on input line 36.
+
+
+LaTeX Warning: Citation `Kosmadoudi2013' on page 11 undefined on input line 36.
+
+
+
+LaTeX Warning: Citation `Oculus' on page 11 undefined on input line 38.
+
+
+LaTeX Warning: Citation `Playstation' on page 11 undefined on input line 38.
+
+
+LaTeX Warning: Citation `fogarty2014exploring' on page 11 undefined on input li
+ne 38.
+
+) [11]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex [12
@@ -2047,19 +2194,111 @@ e mouse and joystick significantly improved human–
 ]
 Chapter 3.
 
+LaTeX Warning: Citation `Veenendaal2012a' on page 13 undefined on input line 8.
+
+
+
+LaTeX Warning: Citation `Schek1974' on page 13 undefined on input line 12.
+
+
+LaTeX Warning: Citation `Day1965' on page 13 undefined on input line 13.
+
+
 Overfull \hbox (4.05838pt too wide) in paragraph at lines 13--14
 []\EU1/AdobeGaramondPro(0)/m/n/10.95 Dynamic equilibrium methods. These methods
  find the steady-state equilibrium through
  []
 
 File: graphics/formfinding-ex.jpg Graphic file (type QTm)
-<use  "graphics/formfinding-ex.jpg" > [13] [14] [15]
-File: graphics/designspace.png Graphic file (type QTm)
+<use  "graphics/formfinding-ex.jpg" >
 
-<use  "graphics/designspace.png" > [16]
+LaTeX Warning: Citation `Day1965' on page 13 undefined on input line 24.
+
+
+LaTeX Warning: Citation `barnes1988form' on page 13 undefined on input line 24.
+
+
+[13]
+
+LaTeX Warning: Citation `barnes1988form' on page 14 undefined on input line 50.
+
+
+
+LaTeX Warning: Citation `Alic2015' on page 14 undefined on input line 52.
+
+[14]
+
+LaTeX Warning: Citation `Michell1904' on page 15 undefined on input line 55.
+
+
+LaTeX Warning: Citation `Clune2013' on page 15 undefined on input line 55.
+
+
+LaTeX Warning: Citation `christensen2008introduction' on page 15 undefined on i
+nput line 57.
+
+
+LaTeX Warning: Citation `christensen2008introduction' on page 15 undefined on i
+nput line 65.
+
+
+LaTeX Warning: Citation `christensen2008introduction' on page 15 undefined on i
+nput line 85.
+
+[15]
+File: graphics/designspace.png Graphic file (type QTm)
+ <use  "graphics/designspace.png" >
+
+LaTeX Warning: Citation `schlaich2006challenges' on page 16 undefined on input 
+line 94.
+
+
+LaTeX Warning: Citation `christensen2008introduction' on page 16 undefined on i
+nput line 94.
+
+
+LaTeX Warning: Citation `Bangert2012' on page 16 undefined on input line 97.
+
+[16]
+
+LaTeX Warning: Citation `Goldberg1989' on page 17 undefined on input line 99.
+
 File: graphics/ga.png Graphic file (type QTm)
- <use  "graphics/ga.png" > [17] [18])
-[19]
+<use  "graphics/ga.png" >
+
+LaTeX Warning: Citation `10.2307/1268522' on page 17 undefined on input line 11
+1.
+
+
+LaTeX Warning: Citation `Scott2002' on page 17 undefined on input line 121.
+
+
+LaTeX Warning: Citation `deb2002fast' on page 17 undefined on input line 121.
+
+
+LaTeX Warning: Citation `bendsoe2009topology' on page 17 undefined on input lin
+e 124.
+
+[17]
+
+LaTeX Warning: Citation `Olsson2003' on page 18 undefined on input line 127.
+
+
+LaTeX Warning: Citation `Olsson2006' on page 18 undefined on input line 145.
+
+
+LaTeX Warning: Citation `Culmann1866' on page 18 undefined on input line 149.
+
+
+LaTeX Warning: Citation `Todisco2015' on page 18 undefined on input line 151.
+
+
+LaTeX Warning: Citation `Block' on page 18 undefined on input line 151.
+
+
+LaTeX Warning: Citation `Fivet2013' on page 18 undefined on input line 151.
+
+[18]) [19]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex [20
@@ -2080,10 +2319,29 @@ File: graphics/abaqus.png Graphic file (type QTm)
  <use  "graphics/abaqus.png" >
 File: graphics/sketchpad.jpg Graphic file (type QTm)
 
-<use  "graphics/sketchpad.jpg" > [21] [22]
-File: graphics/parametric-model.png Graphic file (type QTm)
+<use  "graphics/sketchpad.jpg" >
 
+LaTeX Warning: Citation `Aish2005' on page 21 undefined on input line 27.
+
+[21] [22]
+
+LaTeX Warning: Citation `Aish2005' on page 23 undefined on input line 29.
+
+File: graphics/parametric-model.png Graphic file (type QTm)
 <use  "graphics/parametric-model.png" >
+
+LaTeX Warning: Citation `Rhino' on page 23 undefined on input line 39.
+
+
+LaTeX Warning: Citation `Grasshopper' on page 23 undefined on input line 39.
+
+
+LaTeX Warning: Citation `Dynamo' on page 23 undefined on input line 39.
+
+
+LaTeX Warning: Citation `Karamba' on page 23 undefined on input line 43.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
@@ -2094,15 +2352,74 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--44
  []
 
 [23]
+
+LaTeX Warning: Citation `Shea2005' on page 24 undefined on input line 47.
+
 File: graphics/pointsketch.png Graphic file (type QTm)
- <use  "graphics/pointsketch.png" > [24]
+<use  "graphics/pointsketch.png" >
+
+LaTeX Warning: Citation `Olsson2006' on page 24 undefined on input line 59.
+
+
+LaTeX Warning: Citation `martini2008new' on page 24 undefined on input line 59.
+
+
+[24]
+
+LaTeX Warning: Citation `Autodesk2011' on page 25 undefined on input line 61.
+
+
+LaTeX Warning: Citation `sap2000' on page 25 undefined on input line 61.
+
+
+LaTeX Warning: Citation `clune2012object' on page 25 undefined on input line 61
+.
+
+
+LaTeX Warning: Citation `Senatore2015' on page 25 undefined on input line 63.
+
 File: graphics/equilibrium.png Graphic file (type QTm)
-
 <use  "graphics/equilibrium.png" >
-File: graphics/structurefit.png Graphic file (type QTm)
- <use  "graphics/structurefit.png" > [25]
-File: graphics/forcepad.png Graphic file (type QTm)
 
+LaTeX Warning: Citation `Block' on page 25 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Block' on page 25 undefined on input line 69.
+
+
+LaTeX Warning: Citation `ActiveStatics' on page 25 undefined on input line 73.
+
+
+LaTeX Warning: Citation `Block' on page 25 undefined on input line 73.
+
+
+LaTeX Warning: Citation `CADenary' on page 25 undefined on input line 73.
+
+File: graphics/structurefit.png Graphic file (type QTm)
+<use  "graphics/structurefit.png" >
+
+LaTeX Warning: Citation `VonBuelow2008' on page 25 undefined on input line 83.
+
+[25]
+
+LaTeX Warning: Citation `Mueller2013' on page 26 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Mueller2015' on page 26 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Danhaive2015' on page 26 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Grasshopper' on page 26 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Lindemann2004' on page 26 undefined on input line 88.
+
+
+LaTeX Warning: Citation `Aage2013' on page 26 undefined on input line 88.
+
+File: graphics/forcepad.png Graphic file (type QTm)
 <use  "graphics/forcepad.png" >) [26] [27]
 \openout2 = `chapter5.aux'.
 
@@ -2133,7 +2450,11 @@ File: graphics/performance-feedbacku.png Graphic file (type QTm)
  <use  "graphics/performance-feedbacku.png" >
 [30]
 File: graphics/ipad-ga.png Graphic file (type QTm)
- <use  "graphics/ipad-ga.png" > [31] [32]
+ <use  "graphics/ipad-ga.png" > [31]
+
+LaTeX Warning: Citation `Fonseca1997' on page 32 undefined on input line 54.
+
+[32]
 Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
@@ -2152,8 +2473,7 @@ Invalid UTF-8 byte or sequence at line 71 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 71 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 71 replaced by U+FFFD.
 File: graphics/flowlines-exp.eps Graphic file (type eps)
-
-<graphics/flowlines-exp.eps>
+ <graphics/flowlines-exp.eps>
 
 LaTeX Warning: Float too large for page by 17.05995pt on input line 74.
 
@@ -2166,7 +2486,12 @@ Chapter 6.
 
 
 
-]) [36]
+]
+
+LaTeX Warning: Citation `lindemann2001objectiveframe' on page 36 undefined on i
+nput line 29.
+
+) [36]
 \openout2 = `chapter7.aux'.
 
  (./chapter7.tex
@@ -2182,186 +2507,28 @@ File: graphics/softwareReview.eps Graphic file (type eps)
 
 
 
-]) [38] (./output/thesis.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Sakamoto, T., Ferré, A. (2008), \EU1/Adobe
-GaramondPro(0)/m/it/10.95 Intro\EU1/AdobeGaramondPro(0)/m/n/10.95 , Verb monogr
-aph, Actar-D, ISBN
- []
-
-[39
+]) [38] (./output/thesis.bbl) [39
 
 
 
 
-]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 76.
-
- (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 5359) in paragraph at lines 97--101
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Leap Motion (2013), \EU1/AdobeGaramondPro(
-0)/m/it/10.95 Leap Motion Launches World’s Most Accurate 3-D Mo-
- []
-
-
-Underfull \hbox (badness 4366) in paragraph at lines 97--101
-\EU1/AdobeGaramondPro(0)/m/it/10.95 tion Control Technology for Computin\EU1/Ad
-obeGaramondPro(0)/m/n/10.95 , []$[][][][][] [] [] [] [][][] [] [][][][][][][][]
-[][] [] [][][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 1360) in paragraph at lines 109--111
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Nintendo, \EU1/AdobeGaramondPro(0)/m/it/10
-.95 Nintendo Wii\EU1/AdobeGaramondPro(0)/m/n/10.95 , []$[][][][] [] [] [] [][][
-] [] [][][][][][][][] [] [][][] [] [][][][]$[], [Online; accessed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Microsoft, \EU1/AdobeGaramondPro(0)/m/it/1
-0.95 Kinect\EU1/AdobeGaramondPro(0)/m/n/10.95 , []$[][][][] [] [] [] [][][] [] 
-[][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][][][][][][
-][] []
- []
-
-[40] [41]
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
-[]\EU1/AdobeGaramondPro(0)/m/it/10.95 Dynamo\EU1/AdobeGaramondPro(0)/m/n/10.95 
-, []$[][][][] [] [] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][]
- [] [][][][][][][][][][][][][][] [] [][][][][][][][]$[],
- []
-
-
-Underfull \hbox (badness 4205) in paragraph at lines 251--255
-[]\EU1/AdobeGaramondPro(0)/m/n/10.95 Autodesk (2011), \EU1/AdobeGaramondPro(0)/
-m/it/10.95 Industry First: Autodesk Takes Simulation Mobile with New
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--255
-\EU1/AdobeGaramondPro(0)/m/it/10.95 ForceEffect App for iPad\EU1/AdobeGaramondP
-ro(0)/m/n/10.95 , []$[][][][] [] [] [] [][][][] [] [][][][][][][][] [] [][][] [
-] [][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (51.93237pt too wide) in paragraph at lines 251--255
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][]$[]\EU1/AdobeGaramondPro(0)/m/n/10.95 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--273
-[]\EU1/AdobeGaramondPro(0)/m/it/10.95 ActiveStatics\EU1/AdobeGaramondPro(0)/m/n
-/10.95 , []$[][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][] [] [][][
-][][][] [] [][][][][][] [] [][][][][][][] [] [][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--278
-[]\EU1/AdobeGaramondPro(0)/m/it/10.95 CADenary\EU1/AdobeGaramondPro(0)/m/n/10.9
-5 , []$[][][][] [] [] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][][]
-[][][][] [] [][][][][][][][][][][][] []
- []
-
-[42]) [43] [44
-
-] [45] [46]
+] [40]
 Overfull \hbox (26.26378pt too wide) in paragraph at lines 158--158
 [][] 
  []
 
-[47
+[41
 
-] [48
+] [42
+
+] [43] [44
 
 ]
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf" >
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf" >
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page1>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page1>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page1>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page1>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page1> [49]
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page2>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page2>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page2> [50]
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page3>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page3>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page3> [51]
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page4>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page4>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page4> [52]
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page5>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page5>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page5> [53]
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page6>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page6>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page6> [54]
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page7>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page7>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page7> [55]
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page8>
-File: PaperA.pdf Graphic file (type QTm)
- <use  "PaperA.pdf"  page8>
-File: PaperA.pdf Graphic file (type QTm)
-
-<use  "PaperA.pdf"  page8> [56]
-Overfull \hbox (26.26378pt too wide) in paragraph at lines 178--178
+Overfull \hbox (26.26378pt too wide) in paragraph at lines 183--183
 [][] 
  []
 
-[57
-
-] [58
+[45] [46
 
 ]
 File: PaperB.pdf Graphic file (type QTm)
@@ -2379,7 +2546,7 @@ File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page1>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page1> [59]
+ <use  "PaperB.pdf"  page1> [47]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page2>
@@ -2387,14 +2554,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page2>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page2> [60]
+<use  "PaperB.pdf"  page2> [48]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page3>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page3>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page3> [61]
+ <use  "PaperB.pdf"  page3> [49]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page4>
@@ -2402,14 +2569,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page4>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page4> [62]
+<use  "PaperB.pdf"  page4> [50]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page5>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page5>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page5> [63]
+ <use  "PaperB.pdf"  page5> [51]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page6>
@@ -2417,14 +2584,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page6>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page6> [64]
+<use  "PaperB.pdf"  page6> [52]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page7>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page7>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page7> [65]
+ <use  "PaperB.pdf"  page7> [53]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page8>
@@ -2432,14 +2599,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page8>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page8> [66]
+<use  "PaperB.pdf"  page8> [54]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page9>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page9>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page9> [67]
+ <use  "PaperB.pdf"  page9> [55]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page10>
@@ -2447,14 +2614,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page10>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page10> [68]
+<use  "PaperB.pdf"  page10> [56]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page11>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page11>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page11> [69]
+ <use  "PaperB.pdf"  page11> [57]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page12>
@@ -2462,14 +2629,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page12>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page12> [70]
+<use  "PaperB.pdf"  page12> [58]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page13>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page13>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page13> [71]
+ <use  "PaperB.pdf"  page13> [59]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page14>
@@ -2477,14 +2644,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page14>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page14> [72]
+<use  "PaperB.pdf"  page14> [60]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page15>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page15>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page15> [73]
+ <use  "PaperB.pdf"  page15> [61]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page16>
@@ -2492,14 +2659,14 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page16>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page16> [74]
+<use  "PaperB.pdf"  page16> [62]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page17>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page17>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page17> [75]
+ <use  "PaperB.pdf"  page17> [63]
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page18>
@@ -2507,36 +2674,39 @@ File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page18>
 File: PaperB.pdf Graphic file (type QTm)
 
-<use  "PaperB.pdf"  page18> [76]
+<use  "PaperB.pdf"  page18> [64]
 File: PaperB.pdf Graphic file (type QTm)
  <use  "PaperB.pdf"  page19>
 File: PaperB.pdf Graphic file (type QTm)
 
 <use  "PaperB.pdf"  page19>
 File: PaperB.pdf Graphic file (type QTm)
- <use  "PaperB.pdf"  page19> [77]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
+ <use  "PaperB.pdf"  page19> [65]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
 
 (./output/thesis.aux (./output/acknowledgments.aux) (./output/abstract.aux)
 (./output/sammanfattning.aux) (./output/chapter1.aux) (./output/chapter2.aux)
 (./output/chapter3.aux) (./output/chapter4.aux) (./output/chapter5.aux)
 (./output/chapter6.aux) (./output/chapter7.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 186.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 186.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 191.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
  ) 
 Here is how much of TeX's memory you used:
- 49528 strings out of 493632
- 1080179 string characters out of 6144722
- 1171227 words of memory out of 5000000
- 52068 multiletter control sequences out of 15000+600000
- 46728 words of font info for 148 fonts, out of 8000000 for 9000
+ 49482 strings out of 493632
+ 1079240 string characters out of 6144722
+ 1165823 words of memory out of 5000000
+ 52029 multiletter control sequences out of 15000+600000
+ 46720 words of font info for 147 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  64i,18n,81p,10417b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ./output/thesis.pdf (89 pages).
+Output written on ./output/thesis.pdf (77 pages).
