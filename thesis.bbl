@@ -1,5 +1,9 @@
 \begin{thebibliography}{10}
 
+\bibitem{Mueller2014}
+Mueller, C.T. (2014), \emph{{Computational exploration of the structural design
+  space}}, Ph.D. thesis, Massachusetts Institute of Technology.
+
 \bibitem{schlaich2006challenges}
 Schlaich, M. (2006), \emph{{Challenges in Education--Conceptual and Structural
   Design}}, in: \emph{IABSE Symposium Report}, vol.~92, 20--26, International
@@ -8,10 +12,6 @@ Schlaich, M. (2006), \emph{{Challenges in Education--Conceptual and Structural
 \bibitem{Hsu2000}
 Hsu, W., Liu, B. (2000), \emph{{Conceptual design: issues and challenges}},
   Computer-Aided Design \textbf{32}(14), 849--850.
-
-\bibitem{Mueller2014}
-Mueller, C.T. (2014), \emph{{Computational exploration of the structural design
-  space}}, Ph.D. thesis, Massachusetts Institute of Technology.
 
 \bibitem{sakamoto2008control}
 Sakamoto, T., Ferr{\'{e}}, A. (2008), \emph{{Intro}}, Verb monograph, Actar-D,
@@ -70,6 +70,10 @@ Shneiderman, B. (1997), \emph{{Direct Manipulation for Comprehensible,
 \bibitem{Sears1990}
 Sears, A., Plaisant, C., Shneiderman, B. (1990), \emph{{A new era for high
   precision touchscreens}}, Advances in human-computer interaction \textbf{3}.
+
+\bibitem{impact}
+Impact, \emph{{Impact Finite Element Program}},
+  \url{http://www.impact-fem.org/}, [Online; accessed 2016-05-08].
 
 \bibitem{tufte1997visual}
 Tufte, E. (1997), \emph{{Visual explanations : images and quantities, evidence

@@ -2,8 +2,8 @@
 \label{ch:Computational methods}
 In this section, a number of computational methods that can be used for conceptual structural design are introduced. 
 
-\section{Form-Finding}
-Physical models or numerical simulations can be used for form-finding, which aims to find the form of a structure under load where some static equilibrium is satisfied. The static equilibrium corresponds to a structure that can support the applied load using only compression or tension, and is thus a very efficient structure. For physical models, a hanging chain or cloth can be used to find the static equilibrium.
+\section{Structural form-finding}
+Physical models or numerical simulations can be used for form-finding, which aims to find the form of a structure under load where some static equilibrium is satisfied. The static equilibrium corresponds to a structure that can support the applied load efficiently. For physical models, a hanging chain or cloth can be used to find the static equilibrium.
 
 The different form-finding methods can be divided into three major categories \cite{Veenendaal2012a}: 
 
@@ -52,9 +52,9 @@ Once the geometry has been updated, this iteration is complete and the computati
 A formulation that combines CAD-geometry and dynamic relaxation \cite{Alic2015} for form-finding has recently been developed.
 
 \section{Optimization methods}
-Michell pioneered the field of structural optimization, and in 1904 published a series of results using minimum-weight Michell trusses \cite{Michell1904}. These trusses are still used today as benchmarks for topological optimization with framed trusses \cite{Clune2013}. 
+Michell pioneered the field of structural optimization, and in 1904 published a series of results using minimum-weight Michell trusses \cite{Michell1904}. These trusses are still used today as benchmarks for topological optimization of framed trusses \cite{Clune2013}. 
 
-Structural optimization is a numerical method that finds the best solution for a mathematically formulated objective function subject to a set of constraints. The following variables are always present in structural optimization \cite{christensen2008introduction}:
+Structural optimization is a numerical method that finds the best solution for a mathematically formulated objective function subject to a set of constraints. The following function and variables are always present in structural optimization \cite{christensen2008introduction}:
 
 \begin{itemize} 
 \item \textit{Objective function (f) }- A function that classifies designs with respect to a quantifiable objective. This function returns a numerical value that represents the quality of the design regarding one or more criteria. Usually, a smaller function value is better, i.e., a minimization problem. Frequently, $f$ measures the weight, maximum displacement, strain energy, or cost of a design.
@@ -62,7 +62,7 @@ Structural optimization is a numerical method that finds the best solution for a
 \item \textit{State variable (y)} – For a given design with the design vector $x$, the state variable $y$ represents the response of the structure, i.e., how well the structure performs in terms of the evaluated criterion.
 \end{itemize} 
 
-The optimization problem can now be described as follows \cite{christensen2008introduction}:
+The optimization problem can with the function and variables above be described as follows \cite{christensen2008introduction}:
 
 \begin{equation}
 SO=\begin{cases}
@@ -146,7 +146,7 @@ This is a standard eigenproblem. The eigenvalues   $\lambda$ correspond to the u
 
 
 \section{Graphic statics}
-Graphic statics is a graphical method for finding funicular shapes and computing forces for structural models using a force diagram. The method was first described in 1886 by Karl Culmann \cite{Culmann1866}, and was widely used until the 1970s, when the increase in computational power made numerical simulations more readily available. 
+Graphic statics is a graphical method that can be used for structural form finding and for computing forces for structural models using a force diagram. The method was first described in 1866 by Karl Culmann \cite{Culmann1866}, and was widely used until the 1970s, when the increase in computational power made numerical simulations more readily available. 
 
-This method has recently gained attention from the research community \cite{Todisco2015, Block, Fivet2013} because of its simplicity and power. However, the use of graphic statics is limited to statically determinate problems with axially loaded members. 
+This method has recently gained attention from the research community \cite{Todisco2015, Block, Fivet2013} because of its simplicity and power. However, the use of graphic statics is limited to problems with axially loaded members. 
 

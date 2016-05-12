@@ -51,22 +51,24 @@
 
 %\pagestyle{empty} 
 \frontmatter
-
-\begin{titlepage}
-  \center
-  \null
-  \vspace{6cm}
-  
-  {\Huge Using direct manipulation for real-time structural design exploration}
-
-  \vspace{2cm}
-  
-  \Large{Daniel Åkesson \\ Division of Structural Mechanics \\ Department of Construction Sciences \\ Lund University \\ Sweden}
-  \vspace{1cm}
-  
-  \includegraphics[scale=0.3]{LundUniversity_C2line_BLACK.eps}
-\end{titlepage} 
-
+%
+%\begin{titlepage}
+%  \center
+%  \null
+%  \vspace{6cm}
+%  
+%  {\Huge Using direct manipulation for real-time structural design exploration}
+%
+%  \vspace{2cm}
+%  
+%  \Large{Daniel Åkesson \\ Division of Structural Mechanics \\ Department of Construction Sciences \\ Lund University \\ Sweden}
+%  \vspace{1cm}
+%  
+%  \includegraphics[scale=0.3]{LundUniversity_C2line_BLACK.eps}
+%\end{titlepage} 
+%
+\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{empty}},viewport=585 53 990 720]{frontpage.pdf}
+\includepdf[pages=-,width=1.00\textwidth,pagecommand={\thispagestyle{empty}},viewport=68 65 528 782]{indexpage.pdf}
 
 \pagestyle{plain}
 
@@ -137,7 +139,7 @@ Submitted \\ \\
 \phantomsection
 \addcontentsline{toc}{chapter}{References}
 \bibliographystyle{mystyle}
-\bibliography{thesis-library2}
+\bibliography{thesis}
 
 \pagestyle{empty}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -177,7 +179,7 @@ Submitted \\ \\
 \vfill
 
 \cleardoublepage % When using clip, it appears that you need an extra \cleardoublepage
-\includepdf[pages=-,width=1.1\textwidth,pagecommand={\thispagestyle{empty}},viewport=72 200 541 681]{PaperB.pdf}
+\includepdf[pages=-,width=1.0\textwidth,pagecommand={\thispagestyle{empty}},viewport=72 200 541 681]{PaperB.pdf}
 
 
 
